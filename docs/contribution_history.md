@@ -64,3 +64,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2024-10-11 21:55:55 UTC**: chore(ci): verify cross-platform matrix test compatibility [2024-10-11]
 - **2024-10-11 15:36:16 UTC**: perf(sorting): refine partition pivot selection in quicksort [2024-10-11]
 - **2024-10-11 19:22:02 UTC**: refactor(builder): improve fluent query argument parsing [2024-10-11]
+- **2024-10-14 11:25:03 UTC**: docs(readme): improve quickstart documentation and badges [2024-10-14]
