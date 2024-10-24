@@ -87,3 +87,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2024-10-23 10:18:26 UTC**: docs(notes): update memory locality notes in complexity sheet [2024-10-23]
 - **2024-10-24 18:05:23 UTC**: refactor(utils): enhance string casing regex performance [2024-10-24]
 - **2024-10-24 11:57:56 UTC**: refactor(utils): enhance string casing regex performance [2024-10-24]
+- **2024-10-24 17:32:38 UTC**: test(sorting): add extra test cases for duplicate keys [2024-10-24]
