@@ -104,3 +104,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2024-10-31 21:10:58 UTC**: docs(patterns): refine observer pub-sub lifecycle documentation [2024-10-31]
 - **2024-10-31 09:11:56 UTC**: docs(complexity): update time and space asymptotic notations [2024-10-31]
 - **2024-10-31 19:38:52 UTC**: test(graph): add topological sort edge case validation [2024-10-31]
+- **2024-10-31 11:42:35 UTC**: perf(sorting): refine partition pivot selection in quicksort [2024-10-31]
