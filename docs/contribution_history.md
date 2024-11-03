@@ -115,3 +115,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2024-11-03 15:08:24 UTC**: test(sorting): add extra test cases for duplicate keys [2024-11-03]
 - **2024-11-03 22:19:56 UTC**: perf(data-structures): refine LRU cache node detachment speed [2024-11-03]
 - **2024-11-03 15:20:08 UTC**: docs(complexity): update time and space asymptotic notations [2024-11-03]
+- **2024-11-03 20:27:40 UTC**: docs(notes): update memory locality notes in complexity sheet [2024-11-03]
