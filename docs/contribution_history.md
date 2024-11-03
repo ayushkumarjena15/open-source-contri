@@ -111,3 +111,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2024-11-03 21:52:26 UTC**: docs(complexity): update time and space asymptotic notations [2024-11-03]
 - **2024-11-03 16:37:56 UTC**: refactor(algorithms): optimize search boundary checks [2024-11-03]
 - **2024-11-03 09:31:55 UTC**: test(graph): add topological sort edge case validation [2024-11-03]
+- **2024-11-03 21:49:37 UTC**: docs(readme): improve quickstart documentation and badges [2024-11-03]
