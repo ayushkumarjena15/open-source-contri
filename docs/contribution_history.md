@@ -128,3 +128,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2024-11-06 14:11:28 UTC**: perf(data-structures): refine LRU cache node detachment speed [2024-11-06]
 - **2024-11-06 13:45:07 UTC**: docs(complexity): update time and space asymptotic notations [2024-11-06]
 - **2024-11-06 18:03:06 UTC**: chore(activity): record automated algorithmic benchmark metrics [2024-11-06]
+- **2024-11-06 21:41:24 UTC**: docs(notes): update memory locality notes in complexity sheet [2024-11-06]
