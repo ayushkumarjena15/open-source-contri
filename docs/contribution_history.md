@@ -132,3 +132,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2024-11-08 10:08:22 UTC**: chore(metrics): sync daily repository activity and benchmark statistics [2024-11-08]
 - **2024-11-08 22:02:59 UTC**: docs(complexity): update time and space asymptotic notations [2024-11-08]
 - **2024-11-08 19:46:18 UTC**: docs(complexity): update time and space asymptotic notations [2024-11-08]
+- **2024-11-08 20:28:25 UTC**: perf(sorting): refine partition pivot selection in quicksort [2024-11-08]
