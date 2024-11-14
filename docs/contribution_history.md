@@ -152,3 +152,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2024-11-14 18:59:12 UTC**: docs(benchmarks): update daily runtime performance benchmarks [2024-11-14]
 - **2024-11-14 10:48:34 UTC**: docs(readme): improve quickstart documentation and badges [2024-11-14]
 - **2024-11-14 19:12:30 UTC**: perf(sorting): refine partition pivot selection in quicksort [2024-11-14]
+- **2024-11-14 14:43:15 UTC**: perf(data-structures): refine LRU cache node detachment speed [2024-11-14]
