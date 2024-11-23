@@ -187,3 +187,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2024-11-21 13:59:37 UTC**: docs(patterns): refine observer pub-sub lifecycle documentation [2024-11-21]
 - **2024-11-21 10:56:55 UTC**: chore(ci): verify cross-platform matrix test compatibility [2024-11-21]
 - **2024-11-22 20:06:14 UTC**: docs(readme): improve quickstart documentation and badges [2024-11-22]
+- **2024-11-23 13:38:03 UTC**: docs(notes): update memory locality notes in complexity sheet [2024-11-23]
