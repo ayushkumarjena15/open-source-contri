@@ -207,3 +207,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2024-11-30 17:32:51 UTC**: perf(data-structures): refine LRU cache node detachment speed [2024-11-30]
 - **2024-11-30 12:35:30 UTC**: perf(data-structures): refine LRU cache node detachment speed [2024-11-30]
 - **2024-12-01 22:27:43 UTC**: docs(readme): improve quickstart documentation and badges [2024-12-01]
+- **2024-12-01 18:28:52 UTC**: refactor(builder): improve fluent query argument parsing [2024-12-01]
