@@ -216,3 +216,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2024-12-03 14:47:42 UTC**: refactor(builder): improve fluent query argument parsing [2024-12-03]
 - **2024-12-03 12:26:06 UTC**: perf(data-structures): refine LRU cache node detachment speed [2024-12-03]
 - **2024-12-03 17:02:53 UTC**: refactor(builder): improve fluent query argument parsing [2024-12-03]
+- **2024-12-04 22:14:17 UTC**: test(sorting): add extra test cases for duplicate keys [2024-12-04]
