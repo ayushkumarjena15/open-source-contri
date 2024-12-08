@@ -232,3 +232,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2024-12-07 14:40:43 UTC**: perf(data-structures): refine LRU cache node detachment speed [2024-12-07]
 - **2024-12-07 16:04:54 UTC**: chore(activity): record automated algorithmic benchmark metrics [2024-12-07]
 - **2024-12-07 19:48:44 UTC**: refactor(builder): improve fluent query argument parsing [2024-12-07]
+- **2024-12-08 11:54:50 UTC**: docs(complexity): update time and space asymptotic notations [2024-12-08]
