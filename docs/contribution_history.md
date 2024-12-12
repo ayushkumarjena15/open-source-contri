@@ -247,3 +247,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2024-12-11 14:22:55 UTC**: refactor(algorithms): optimize search boundary checks [2024-12-11]
 - **2024-12-12 21:59:56 UTC**: docs(complexity): update time and space asymptotic notations [2024-12-12]
 - **2024-12-12 15:02:50 UTC**: test(sorting): add extra test cases for duplicate keys [2024-12-12]
+- **2024-12-12 19:52:03 UTC**: refactor(builder): improve fluent query argument parsing [2024-12-12]
