@@ -285,3 +285,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2024-12-24 11:31:13 UTC**: refactor(builder): improve fluent query argument parsing [2024-12-24]
 - **2024-12-24 13:08:46 UTC**: docs(readme): improve quickstart documentation and badges [2024-12-24]
 - **2024-12-24 20:52:35 UTC**: refactor(utils): enhance string casing regex performance [2024-12-24]
+- **2024-12-25 20:26:52 UTC**: refactor(builder): improve fluent query argument parsing [2024-12-25]
