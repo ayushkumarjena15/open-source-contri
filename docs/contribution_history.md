@@ -305,3 +305,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2024-12-27 12:34:09 UTC**: test(sorting): add extra test cases for duplicate keys [2024-12-27]
 - **2024-12-27 12:27:13 UTC**: chore(metrics): sync daily repository activity and benchmark statistics [2024-12-27]
 - **2024-12-27 09:36:29 UTC**: test(graph): add topological sort edge case validation [2024-12-27]
+- **2024-12-27 20:46:54 UTC**: refactor(builder): improve fluent query argument parsing [2024-12-27]
