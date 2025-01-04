@@ -348,3 +348,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-01-04 09:31:59 UTC**: chore(metrics): sync daily repository activity and benchmark statistics [2025-01-04]
 - **2025-01-04 20:42:20 UTC**: docs(readme): improve quickstart documentation and badges [2025-01-04]
 - **2025-01-04 21:50:17 UTC**: refactor(builder): improve fluent query argument parsing [2025-01-04]
+- **2025-01-04 20:14:54 UTC**: perf(data-structures): refine LRU cache node detachment speed [2025-01-04]
