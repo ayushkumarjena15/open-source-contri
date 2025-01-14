@@ -370,3 +370,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-01-12 19:31:56 UTC**: chore(activity): record automated algorithmic benchmark metrics [2025-01-12]
 - **2025-01-13 21:37:50 UTC**: docs(readme): improve quickstart documentation and badges [2025-01-13]
 - **2025-01-13 09:53:29 UTC**: refactor(utils): enhance string casing regex performance [2025-01-13]
+- **2025-01-14 21:27:57 UTC**: refactor(builder): improve fluent query argument parsing [2025-01-14]
