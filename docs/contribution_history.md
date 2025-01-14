@@ -377,3 +377,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-01-14 11:56:49 UTC**: refactor(algorithms): optimize search boundary checks [2025-01-14]
 - **2025-01-14 14:22:34 UTC**: chore(activity): record automated algorithmic benchmark metrics [2025-01-14]
 - **2025-01-14 19:39:06 UTC**: refactor(algorithms): optimize search boundary checks [2025-01-14]
+- **2025-01-14 11:02:26 UTC**: refactor(builder): improve fluent query argument parsing [2025-01-14]
