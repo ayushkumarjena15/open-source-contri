@@ -389,3 +389,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-01-15 09:57:36 UTC**: docs(notes): update memory locality notes in complexity sheet [2025-01-15]
 - **2025-01-15 09:21:20 UTC**: refactor(utils): enhance string casing regex performance [2025-01-15]
 - **2025-01-15 10:10:03 UTC**: refactor(algorithms): optimize search boundary checks [2025-01-15]
+- **2025-01-15 13:11:10 UTC**: refactor(builder): improve fluent query argument parsing [2025-01-15]
