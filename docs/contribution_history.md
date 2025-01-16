@@ -392,3 +392,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-01-15 13:11:10 UTC**: refactor(builder): improve fluent query argument parsing [2025-01-15]
 - **2025-01-16 20:39:45 UTC**: perf(data-structures): refine LRU cache node detachment speed [2025-01-16]
 - **2025-01-16 14:51:27 UTC**: test(graph): add topological sort edge case validation [2025-01-16]
+- **2025-01-16 19:56:31 UTC**: test(sorting): add extra test cases for duplicate keys [2025-01-16]
