@@ -412,3 +412,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-01-20 09:57:09 UTC**: chore(activity): record automated algorithmic benchmark metrics [2025-01-20]
 - **2025-01-20 10:01:24 UTC**: chore(metrics): sync daily repository activity and benchmark statistics [2025-01-20]
 - **2025-01-20 17:05:03 UTC**: docs(readme): improve quickstart documentation and badges [2025-01-20]
+- **2025-01-20 16:25:05 UTC**: docs(notes): update memory locality notes in complexity sheet [2025-01-20]
