@@ -420,3 +420,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-01-22 21:31:31 UTC**: refactor(algorithms): optimize search boundary checks [2025-01-22]
 - **2025-01-22 09:43:13 UTC**: chore(metrics): sync daily repository activity and benchmark statistics [2025-01-22]
 - **2025-01-22 18:59:04 UTC**: refactor(builder): improve fluent query argument parsing [2025-01-22]
+- **2025-01-22 14:25:41 UTC**: docs(notes): update memory locality notes in complexity sheet [2025-01-22]
