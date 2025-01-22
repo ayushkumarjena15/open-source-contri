@@ -416,3 +416,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-01-20 18:25:30 UTC**: refactor(utils): enhance string casing regex performance [2025-01-20]
 - **2025-01-22 21:02:27 UTC**: test(graph): add topological sort edge case validation [2025-01-22]
 - **2025-01-22 17:50:37 UTC**: test(graph): add topological sort edge case validation [2025-01-22]
+- **2025-01-22 14:36:17 UTC**: docs(readme): improve quickstart documentation and badges [2025-01-22]
