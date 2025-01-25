@@ -424,3 +424,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-01-23 18:34:59 UTC**: chore(activity): record automated algorithmic benchmark metrics [2025-01-23]
 - **2025-01-23 14:27:54 UTC**: docs(notes): update memory locality notes in complexity sheet [2025-01-23]
 - **2025-01-25 21:11:54 UTC**: refactor(builder): improve fluent query argument parsing [2025-01-25]
+- **2025-01-25 21:58:24 UTC**: test(graph): add topological sort edge case validation [2025-01-25]
