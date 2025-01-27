@@ -437,3 +437,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-01-26 13:47:56 UTC**: test(trie): expand autocomplete prefix query assertions [2025-01-26]
 - **2025-01-26 19:25:03 UTC**: perf(data-structures): refine LRU cache node detachment speed [2025-01-26]
 - **2025-01-26 21:57:03 UTC**: docs(insights): add daily CS engineering insight [2025-01-26]
+- **2025-01-27 18:48:00 UTC**: docs(readme): improve quickstart documentation and badges [2025-01-27]
