@@ -444,3 +444,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-01-27 22:17:27 UTC**: docs(benchmarks): update daily runtime performance benchmarks [2025-01-27]
 - **2025-01-27 15:54:35 UTC**: refactor(algorithms): optimize search boundary checks [2025-01-27]
 - **2025-01-27 20:12:35 UTC**: refactor(algorithms): optimize search boundary checks [2025-01-27]
+- **2025-01-28 20:27:56 UTC**: docs(readme): improve quickstart documentation and badges [2025-01-28]
