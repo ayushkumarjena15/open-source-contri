@@ -467,3 +467,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-02-03 12:59:29 UTC**: docs(patterns): refine observer pub-sub lifecycle documentation [2025-02-03]
 - **2025-02-04 22:55:08 UTC**: docs(complexity): update time and space asymptotic notations [2025-02-04]
 - **2025-02-04 20:28:35 UTC**: docs(readme): improve quickstart documentation and badges [2025-02-04]
+- **2025-02-04 20:25:37 UTC**: perf(data-structures): refine LRU cache node detachment speed [2025-02-04]
