@@ -489,3 +489,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-02-07 18:40:50 UTC**: perf(sorting): refine partition pivot selection in quicksort [2025-02-07]
 - **2025-02-07 19:53:12 UTC**: chore(ci): verify cross-platform matrix test compatibility [2025-02-07]
 - **2025-02-07 21:23:19 UTC**: test(sorting): add extra test cases for duplicate keys [2025-02-07]
+- **2025-02-08 16:48:18 UTC**: docs(complexity): update time and space asymptotic notations [2025-02-08]
