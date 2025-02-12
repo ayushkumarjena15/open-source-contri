@@ -515,3 +515,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-02-11 20:02:30 UTC**: docs(readme): improve quickstart documentation and badges [2025-02-11]
 - **2025-02-12 14:37:51 UTC**: docs(notes): update memory locality notes in complexity sheet [2025-02-12]
 - **2025-02-12 11:00:05 UTC**: test(trie): expand autocomplete prefix query assertions [2025-02-12]
+- **2025-02-12 13:19:04 UTC**: test(graph): add topological sort edge case validation [2025-02-12]
