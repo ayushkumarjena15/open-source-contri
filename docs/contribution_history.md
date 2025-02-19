@@ -535,3 +535,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-02-17 13:29:12 UTC**: docs(notes): update memory locality notes in complexity sheet [2025-02-17]
 - **2025-02-17 10:00:44 UTC**: refactor(algorithms): optimize search boundary checks [2025-02-17]
 - **2025-02-19 09:56:33 UTC**: chore(metrics): sync daily repository activity and benchmark statistics [2025-02-19]
+- **2025-02-19 14:00:47 UTC**: docs(complexity): update time and space asymptotic notations [2025-02-19]
