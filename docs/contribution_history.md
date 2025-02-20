@@ -543,3 +543,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-02-20 12:02:43 UTC**: perf(sorting): refine partition pivot selection in quicksort [2025-02-20]
 - **2025-02-20 21:53:37 UTC**: docs(readme): improve quickstart documentation and badges [2025-02-20]
 - **2025-02-20 17:45:57 UTC**: docs(complexity): update time and space asymptotic notations [2025-02-20]
+- **2025-02-20 15:58:37 UTC**: test(graph): add topological sort edge case validation [2025-02-20]
