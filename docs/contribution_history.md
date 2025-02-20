@@ -540,3 +540,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-02-20 15:41:18 UTC**: chore(ci): verify cross-platform matrix test compatibility [2025-02-20]
 - **2025-02-20 11:41:08 UTC**: chore(ci): verify cross-platform matrix test compatibility [2025-02-20]
 - **2025-02-20 10:25:08 UTC**: docs(insights): add daily CS engineering insight [2025-02-20]
+- **2025-02-20 12:02:43 UTC**: perf(sorting): refine partition pivot selection in quicksort [2025-02-20]
