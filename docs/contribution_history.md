@@ -560,3 +560,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-02-25 13:27:39 UTC**: docs(complexity): update time and space asymptotic notations [2025-02-25]
 - **2025-02-25 20:50:37 UTC**: docs(patterns): refine observer pub-sub lifecycle documentation [2025-02-25]
 - **2025-02-25 19:37:17 UTC**: test(graph): add topological sort edge case validation [2025-02-25]
+- **2025-02-25 22:42:14 UTC**: refactor(builder): improve fluent query argument parsing [2025-02-25]
