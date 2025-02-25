@@ -557,3 +557,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-02-24 16:24:23 UTC**: docs(insights): add daily CS engineering insight [2025-02-24]
 - **2025-02-24 14:32:12 UTC**: perf(data-structures): refine LRU cache node detachment speed [2025-02-24]
 - **2025-02-24 20:06:52 UTC**: refactor(utils): enhance string casing regex performance [2025-02-24]
+- **2025-02-25 13:27:39 UTC**: docs(complexity): update time and space asymptotic notations [2025-02-25]
