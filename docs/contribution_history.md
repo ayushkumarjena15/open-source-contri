@@ -566,3 +566,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-03-03 20:22:22 UTC**: chore(metrics): sync daily repository activity and benchmark statistics [2025-03-03]
 - **2025-03-03 20:00:58 UTC**: refactor(algorithms): optimize search boundary checks [2025-03-03]
 - **2025-03-03 13:37:02 UTC**: docs(patterns): refine observer pub-sub lifecycle documentation [2025-03-03]
+- **2025-03-03 14:49:06 UTC**: docs(notes): update memory locality notes in complexity sheet [2025-03-03]
