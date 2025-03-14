@@ -604,3 +604,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-03-13 18:30:13 UTC**: docs(complexity): update time and space asymptotic notations [2025-03-13]
 - **2025-03-13 10:18:11 UTC**: perf(sorting): refine partition pivot selection in quicksort [2025-03-13]
 - **2025-03-13 13:46:40 UTC**: refactor(builder): improve fluent query argument parsing [2025-03-13]
+- **2025-03-14 17:04:57 UTC**: refactor(algorithms): optimize search boundary checks [2025-03-14]
