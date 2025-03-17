@@ -621,3 +621,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-03-16 15:36:14 UTC**: chore(activity): record automated algorithmic benchmark metrics [2025-03-16]
 - **2025-03-16 10:20:32 UTC**: perf(sorting): refine partition pivot selection in quicksort [2025-03-16]
 - **2025-03-17 12:16:53 UTC**: refactor(utils): enhance string casing regex performance [2025-03-17]
+- **2025-03-17 16:03:14 UTC**: refactor(builder): improve fluent query argument parsing [2025-03-17]
