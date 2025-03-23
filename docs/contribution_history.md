@@ -626,3 +626,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-03-17 11:22:50 UTC**: refactor(utils): enhance string casing regex performance [2025-03-17]
 - **2025-03-17 17:09:35 UTC**: docs(benchmarks): update daily runtime performance benchmarks [2025-03-17]
 - **2025-03-17 15:45:08 UTC**: refactor(utils): enhance string casing regex performance [2025-03-17]
+- **2025-03-23 11:45:39 UTC**: docs(notes): update memory locality notes in complexity sheet [2025-03-23]
