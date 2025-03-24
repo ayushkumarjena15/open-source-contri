@@ -637,3 +637,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-03-24 19:57:54 UTC**: chore(ci): verify cross-platform matrix test compatibility [2025-03-24]
 - **2025-03-24 09:39:37 UTC**: refactor(builder): improve fluent query argument parsing [2025-03-24]
 - **2025-03-24 16:52:12 UTC**: docs(patterns): refine observer pub-sub lifecycle documentation [2025-03-24]
+- **2025-03-24 21:42:39 UTC**: refactor(builder): improve fluent query argument parsing [2025-03-24]
