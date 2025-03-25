@@ -642,3 +642,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-03-24 22:23:18 UTC**: refactor(utils): enhance string casing regex performance [2025-03-24]
 - **2025-03-24 16:16:35 UTC**: refactor(builder): improve fluent query argument parsing [2025-03-24]
 - **2025-03-25 17:51:38 UTC**: test(sorting): add extra test cases for duplicate keys [2025-03-25]
+- **2025-03-25 09:46:55 UTC**: perf(data-structures): refine LRU cache node detachment speed [2025-03-25]
