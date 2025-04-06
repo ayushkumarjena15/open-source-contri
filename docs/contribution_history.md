@@ -670,3 +670,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-04-06 16:52:30 UTC**: chore(ci): verify cross-platform matrix test compatibility [2025-04-06]
 - **2025-04-06 19:10:19 UTC**: chore(metrics): sync daily repository activity and benchmark statistics [2025-04-06]
 - **2025-04-06 19:57:44 UTC**: chore(health): routine automated code quality inspection [2025-04-06]
+- **2025-04-06 16:54:25 UTC**: refactor(builder): improve fluent query argument parsing [2025-04-06]
