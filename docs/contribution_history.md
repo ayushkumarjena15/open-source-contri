@@ -682,3 +682,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-04-08 17:46:15 UTC**: docs(insights): add daily CS engineering insight [2025-04-08]
 - **2025-04-08 12:04:54 UTC**: docs(notes): update memory locality notes in complexity sheet [2025-04-08]
 - **2025-04-08 15:15:40 UTC**: docs(complexity): update time and space asymptotic notations [2025-04-08]
+- **2025-04-08 11:19:18 UTC**: docs(readme): improve quickstart documentation and badges [2025-04-08]
