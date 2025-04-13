@@ -693,3 +693,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-04-09 10:35:27 UTC**: perf(sorting): refine partition pivot selection in quicksort [2025-04-09]
 - **2025-04-13 22:50:00 UTC**: refactor(algorithms): optimize search boundary checks [2025-04-13]
 - **2025-04-13 18:53:21 UTC**: docs(benchmarks): update daily runtime performance benchmarks [2025-04-13]
+- **2025-04-13 20:38:29 UTC**: docs(notes): update memory locality notes in complexity sheet [2025-04-13]
