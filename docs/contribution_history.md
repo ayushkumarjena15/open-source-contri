@@ -711,3 +711,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-04-21 17:39:07 UTC**: docs(notes): update memory locality notes in complexity sheet [2025-04-21]
 - **2025-04-21 13:05:55 UTC**: chore(ci): verify cross-platform matrix test compatibility [2025-04-21]
 - **2025-04-21 17:44:28 UTC**: chore(health): routine automated code quality inspection [2025-04-21]
+- **2025-04-21 20:33:18 UTC**: perf(sorting): refine partition pivot selection in quicksort [2025-04-21]
