@@ -715,3 +715,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-04-21 17:05:11 UTC**: perf(data-structures): refine LRU cache node detachment speed [2025-04-21]
 - **2025-04-22 14:50:18 UTC**: docs(notes): update memory locality notes in complexity sheet [2025-04-22]
 - **2025-04-22 20:02:43 UTC**: refactor(algorithms): optimize search boundary checks [2025-04-22]
+- **2025-04-22 10:55:49 UTC**: test(graph): add topological sort edge case validation [2025-04-22]
