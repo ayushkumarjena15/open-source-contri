@@ -713,3 +713,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-04-21 17:44:28 UTC**: chore(health): routine automated code quality inspection [2025-04-21]
 - **2025-04-21 20:33:18 UTC**: perf(sorting): refine partition pivot selection in quicksort [2025-04-21]
 - **2025-04-21 17:05:11 UTC**: perf(data-structures): refine LRU cache node detachment speed [2025-04-21]
+- **2025-04-22 14:50:18 UTC**: docs(notes): update memory locality notes in complexity sheet [2025-04-22]
