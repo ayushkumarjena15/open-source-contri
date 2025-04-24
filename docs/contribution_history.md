@@ -728,3 +728,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-04-23 22:46:10 UTC**: chore(ci): verify cross-platform matrix test compatibility [2025-04-23]
 - **2025-04-23 19:20:47 UTC**: docs(notes): update memory locality notes in complexity sheet [2025-04-23]
 - **2025-04-24 17:00:59 UTC**: test(graph): add topological sort edge case validation [2025-04-24]
+- **2025-04-24 11:34:46 UTC**: docs(readme): improve quickstart documentation and badges [2025-04-24]
