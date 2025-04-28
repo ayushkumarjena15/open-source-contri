@@ -739,3 +739,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-04-25 16:33:28 UTC**: docs(insights): add daily CS engineering insight [2025-04-25]
 - **2025-04-25 11:26:20 UTC**: test(sorting): add extra test cases for duplicate keys [2025-04-25]
 - **2025-04-28 21:32:16 UTC**: docs(notes): update memory locality notes in complexity sheet [2025-04-28]
+- **2025-04-28 20:13:46 UTC**: refactor(builder): improve fluent query argument parsing [2025-04-28]
