@@ -748,3 +748,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-04-30 20:27:18 UTC**: docs(benchmarks): update daily runtime performance benchmarks [2025-04-30]
 - **2025-04-30 15:15:16 UTC**: refactor(algorithms): optimize search boundary checks [2025-04-30]
 - **2025-04-30 20:08:27 UTC**: docs(patterns): refine observer pub-sub lifecycle documentation [2025-04-30]
+- **2025-04-30 21:00:02 UTC**: docs(readme): improve quickstart documentation and badges [2025-04-30]
