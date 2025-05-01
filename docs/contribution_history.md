@@ -756,3 +756,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-05-01 17:06:41 UTC**: test(sorting): add extra test cases for duplicate keys [2025-05-01]
 - **2025-05-01 17:03:37 UTC**: refactor(utils): enhance string casing regex performance [2025-05-01]
 - **2025-05-01 20:40:04 UTC**: perf(data-structures): refine LRU cache node detachment speed [2025-05-01]
+- **2025-05-01 10:12:39 UTC**: docs(patterns): refine observer pub-sub lifecycle documentation [2025-05-01]
