@@ -768,3 +768,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-05-03 15:01:34 UTC**: docs(readme): improve quickstart documentation and badges [2025-05-03]
 - **2025-05-03 20:32:27 UTC**: docs(complexity): update time and space asymptotic notations [2025-05-03]
 - **2025-05-03 16:32:17 UTC**: refactor(utils): enhance string casing regex performance [2025-05-03]
+- **2025-05-03 18:19:15 UTC**: refactor(builder): improve fluent query argument parsing [2025-05-03]
