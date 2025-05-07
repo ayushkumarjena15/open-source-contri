@@ -780,3 +780,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-05-04 19:04:58 UTC**: docs(patterns): refine observer pub-sub lifecycle documentation [2025-05-04]
 - **2025-05-04 16:08:41 UTC**: test(sorting): add extra test cases for duplicate keys [2025-05-04]
 - **2025-05-06 21:00:08 UTC**: test(sorting): add extra test cases for duplicate keys [2025-05-06]
+- **2025-05-07 15:58:25 UTC**: docs(notes): update memory locality notes in complexity sheet [2025-05-07]
