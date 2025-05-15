@@ -793,3 +793,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-05-12 12:28:45 UTC**: docs(notes): update memory locality notes in complexity sheet [2025-05-12]
 - **2025-05-13 18:33:21 UTC**: docs(patterns): refine observer pub-sub lifecycle documentation [2025-05-13]
 - **2025-05-13 16:43:01 UTC**: docs(readme): improve quickstart documentation and badges [2025-05-13]
+- **2025-05-15 22:47:33 UTC**: test(graph): add topological sort edge case validation [2025-05-15]
