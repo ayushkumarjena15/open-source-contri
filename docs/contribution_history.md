@@ -803,3 +803,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-05-15 09:02:06 UTC**: refactor(utils): enhance string casing regex performance [2025-05-15]
 - **2025-05-15 11:11:11 UTC**: docs(patterns): refine observer pub-sub lifecycle documentation [2025-05-15]
 - **2025-05-15 18:00:10 UTC**: refactor(algorithms): optimize search boundary checks [2025-05-15]
+- **2025-05-16 13:44:05 UTC**: refactor(builder): improve fluent query argument parsing [2025-05-16]
