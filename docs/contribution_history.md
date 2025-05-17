@@ -809,3 +809,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-05-16 10:54:56 UTC**: refactor(builder): improve fluent query argument parsing [2025-05-16]
 - **2025-05-17 21:03:46 UTC**: chore(health): routine automated code quality inspection [2025-05-17]
 - **2025-05-17 17:52:58 UTC**: docs(readme): improve quickstart documentation and badges [2025-05-17]
+- **2025-05-17 09:42:12 UTC**: perf(sorting): refine partition pivot selection in quicksort [2025-05-17]
