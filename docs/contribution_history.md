@@ -812,3 +812,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-05-17 09:42:12 UTC**: perf(sorting): refine partition pivot selection in quicksort [2025-05-17]
 - **2025-05-17 09:34:30 UTC**: chore(metrics): sync daily repository activity and benchmark statistics [2025-05-17]
 - **2025-05-18 10:51:35 UTC**: chore(activity): record automated algorithmic benchmark metrics [2025-05-18]
+- **2025-05-18 10:55:03 UTC**: docs(complexity): update time and space asymptotic notations [2025-05-18]
