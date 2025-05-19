@@ -820,3 +820,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-05-18 12:00:36 UTC**: docs(readme): improve quickstart documentation and badges [2025-05-18]
 - **2025-05-18 21:21:49 UTC**: test(graph): add topological sort edge case validation [2025-05-18]
 - **2025-05-19 10:01:58 UTC**: docs(complexity): update time and space asymptotic notations [2025-05-19]
+- **2025-05-19 17:36:58 UTC**: docs(complexity): update time and space asymptotic notations [2025-05-19]
