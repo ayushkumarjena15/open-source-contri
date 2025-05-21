@@ -829,3 +829,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-05-21 16:32:35 UTC**: docs(insights): add daily CS engineering insight [2025-05-21]
 - **2025-05-21 13:26:21 UTC**: docs(readme): improve quickstart documentation and badges [2025-05-21]
 - **2025-05-21 10:29:52 UTC**: perf(sorting): refine partition pivot selection in quicksort [2025-05-21]
+- **2025-05-21 19:33:30 UTC**: test(graph): add topological sort edge case validation [2025-05-21]
