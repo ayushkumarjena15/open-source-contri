@@ -832,3 +832,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-05-21 19:33:30 UTC**: test(graph): add topological sort edge case validation [2025-05-21]
 - **2025-05-21 15:54:59 UTC**: docs(readme): improve quickstart documentation and badges [2025-05-21]
 - **2025-05-21 16:51:39 UTC**: docs(benchmarks): update daily runtime performance benchmarks [2025-05-21]
+- **2025-05-21 14:47:53 UTC**: docs(patterns): refine observer pub-sub lifecycle documentation [2025-05-21]
