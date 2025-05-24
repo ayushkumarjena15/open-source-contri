@@ -854,3 +854,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-05-24 20:24:40 UTC**: docs(benchmarks): update daily runtime performance benchmarks [2025-05-24]
 - **2025-05-24 13:40:55 UTC**: refactor(builder): improve fluent query argument parsing [2025-05-24]
 - **2025-05-24 09:29:03 UTC**: docs(complexity): update time and space asymptotic notations [2025-05-24]
+- **2025-05-24 13:50:39 UTC**: perf(data-structures): refine LRU cache node detachment speed [2025-05-24]
