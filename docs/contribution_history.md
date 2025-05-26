@@ -865,3 +865,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-05-26 21:11:29 UTC**: docs(notes): update memory locality notes in complexity sheet [2025-05-26]
 - **2025-05-26 17:43:52 UTC**: docs(readme): improve quickstart documentation and badges [2025-05-26]
 - **2025-05-26 13:57:50 UTC**: docs(complexity): update time and space asymptotic notations [2025-05-26]
+- **2025-05-26 11:58:38 UTC**: test(graph): add topological sort edge case validation [2025-05-26]
