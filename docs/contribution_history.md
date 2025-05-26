@@ -859,3 +859,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-05-25 22:45:31 UTC**: docs(readme): improve quickstart documentation and badges [2025-05-25]
 - **2025-05-26 19:01:44 UTC**: docs(insights): add daily CS engineering insight [2025-05-26]
 - **2025-05-26 10:47:48 UTC**: docs(notes): update memory locality notes in complexity sheet [2025-05-26]
+- **2025-05-26 09:03:58 UTC**: refactor(builder): improve fluent query argument parsing [2025-05-26]
