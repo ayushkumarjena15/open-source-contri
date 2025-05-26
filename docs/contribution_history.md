@@ -858,3 +858,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-05-25 19:52:43 UTC**: perf(sorting): refine partition pivot selection in quicksort [2025-05-25]
 - **2025-05-25 22:45:31 UTC**: docs(readme): improve quickstart documentation and badges [2025-05-25]
 - **2025-05-26 19:01:44 UTC**: docs(insights): add daily CS engineering insight [2025-05-26]
+- **2025-05-26 10:47:48 UTC**: docs(notes): update memory locality notes in complexity sheet [2025-05-26]
