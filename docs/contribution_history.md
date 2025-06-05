@@ -880,3 +880,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-06-03 19:30:33 UTC**: test(sorting): add extra test cases for duplicate keys [2025-06-03]
 - **2025-06-05 15:24:08 UTC**: chore(activity): record automated algorithmic benchmark metrics [2025-06-05]
 - **2025-06-05 15:06:14 UTC**: docs(complexity): update time and space asymptotic notations [2025-06-05]
+- **2025-06-05 16:30:08 UTC**: refactor(builder): improve fluent query argument parsing [2025-06-05]
