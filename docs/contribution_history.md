@@ -889,3 +889,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-06-07 09:14:50 UTC**: docs(complexity): update time and space asymptotic notations [2025-06-07]
 - **2025-06-07 20:06:39 UTC**: docs(notes): update memory locality notes in complexity sheet [2025-06-07]
 - **2025-06-07 13:09:24 UTC**: perf(sorting): refine partition pivot selection in quicksort [2025-06-07]
+- **2025-06-07 09:29:47 UTC**: docs(readme): improve quickstart documentation and badges [2025-06-07]
