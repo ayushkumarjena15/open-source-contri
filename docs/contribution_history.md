@@ -886,3 +886,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-06-06 14:09:07 UTC**: refactor(algorithms): optimize search boundary checks [2025-06-06]
 - **2025-06-07 17:31:53 UTC**: chore(ci): verify cross-platform matrix test compatibility [2025-06-07]
 - **2025-06-07 15:25:04 UTC**: chore(ci): verify cross-platform matrix test compatibility [2025-06-07]
+- **2025-06-07 09:14:50 UTC**: docs(complexity): update time and space asymptotic notations [2025-06-07]
