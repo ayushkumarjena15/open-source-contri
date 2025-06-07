@@ -892,3 +892,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-06-07 09:29:47 UTC**: docs(readme): improve quickstart documentation and badges [2025-06-07]
 - **2025-06-07 09:20:30 UTC**: perf(sorting): refine partition pivot selection in quicksort [2025-06-07]
 - **2025-06-07 22:52:37 UTC**: refactor(builder): improve fluent query argument parsing [2025-06-07]
+- **2025-06-07 19:17:37 UTC**: docs(benchmarks): update daily runtime performance benchmarks [2025-06-07]
