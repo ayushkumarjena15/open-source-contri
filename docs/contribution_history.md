@@ -896,3 +896,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-06-07 20:42:51 UTC**: docs(insights): add daily CS engineering insight [2025-06-07]
 - **2025-06-10 14:19:38 UTC**: refactor(utils): enhance string casing regex performance [2025-06-10]
 - **2025-06-10 21:38:56 UTC**: docs(patterns): refine observer pub-sub lifecycle documentation [2025-06-10]
+- **2025-06-14 17:39:51 UTC**: docs(notes): update memory locality notes in complexity sheet [2025-06-14]
