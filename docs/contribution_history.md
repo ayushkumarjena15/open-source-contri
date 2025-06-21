@@ -916,3 +916,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-06-21 21:10:46 UTC**: chore(activity): record automated algorithmic benchmark metrics [2025-06-21]
 - **2025-06-21 17:50:40 UTC**: refactor(builder): improve fluent query argument parsing [2025-06-21]
 - **2025-06-21 22:14:09 UTC**: perf(data-structures): refine LRU cache node detachment speed [2025-06-21]
+- **2025-06-21 17:55:01 UTC**: test(graph): add topological sort edge case validation [2025-06-21]
