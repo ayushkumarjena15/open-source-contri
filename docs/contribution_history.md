@@ -919,3 +919,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-06-21 17:55:01 UTC**: test(graph): add topological sort edge case validation [2025-06-21]
 - **2025-06-23 10:38:05 UTC**: docs(insights): add daily CS engineering insight [2025-06-23]
 - **2025-06-23 16:38:39 UTC**: refactor(builder): improve fluent query argument parsing [2025-06-23]
+- **2025-06-26 19:01:18 UTC**: docs(complexity): update time and space asymptotic notations [2025-06-26]
