@@ -947,3 +947,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-07-03 14:40:29 UTC**: docs(readme): improve quickstart documentation and badges [2025-07-03]
 - **2025-07-03 09:46:18 UTC**: test(trie): expand autocomplete prefix query assertions [2025-07-03]
 - **2025-07-03 21:20:45 UTC**: refactor(builder): improve fluent query argument parsing [2025-07-03]
+- **2025-07-03 13:33:28 UTC**: perf(sorting): refine partition pivot selection in quicksort [2025-07-03]
