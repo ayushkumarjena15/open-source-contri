@@ -954,3 +954,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-07-03 13:50:49 UTC**: docs(notes): update memory locality notes in complexity sheet [2025-07-03]
 - **2025-07-05 21:08:51 UTC**: refactor(builder): improve fluent query argument parsing [2025-07-05]
 - **2025-07-05 14:50:24 UTC**: docs(readme): improve quickstart documentation and badges [2025-07-05]
+- **2025-07-05 17:17:18 UTC**: chore(ci): verify cross-platform matrix test compatibility [2025-07-05]
