@@ -960,3 +960,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-07-06 20:04:29 UTC**: docs(notes): update memory locality notes in complexity sheet [2025-07-06]
 - **2025-07-07 20:32:17 UTC**: test(sorting): add extra test cases for duplicate keys [2025-07-07]
 - **2025-07-07 16:36:56 UTC**: docs(insights): add daily CS engineering insight [2025-07-07]
+- **2025-07-07 15:31:24 UTC**: perf(sorting): refine partition pivot selection in quicksort [2025-07-07]
