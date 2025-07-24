@@ -1002,3 +1002,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-07-24 14:06:39 UTC**: docs(notes): update memory locality notes in complexity sheet [2025-07-24]
 - **2025-07-24 14:42:19 UTC**: chore(ci): verify cross-platform matrix test compatibility [2025-07-24]
 - **2025-07-24 19:06:19 UTC**: test(graph): add topological sort edge case validation [2025-07-24]
+- **2025-07-24 19:02:39 UTC**: refactor(utils): enhance string casing regex performance [2025-07-24]
