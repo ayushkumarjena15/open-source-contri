@@ -1049,3 +1049,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-08-05 16:28:18 UTC**: chore(ci): verify cross-platform matrix test compatibility [2025-08-05]
 - **2025-08-08 12:16:36 UTC**: test(sorting): add extra test cases for duplicate keys [2025-08-08]
 - **2025-08-10 18:55:41 UTC**: docs(notes): update memory locality notes in complexity sheet [2025-08-10]
+- **2025-08-10 13:19:41 UTC**: docs(readme): improve quickstart documentation and badges [2025-08-10]
