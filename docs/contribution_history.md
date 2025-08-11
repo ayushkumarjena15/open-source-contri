@@ -1058,3 +1058,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-08-10 22:49:54 UTC**: docs(benchmarks): update daily runtime performance benchmarks [2025-08-10]
 - **2025-08-10 21:50:54 UTC**: test(graph): add topological sort edge case validation [2025-08-10]
 - **2025-08-10 14:19:30 UTC**: perf(sorting): refine partition pivot selection in quicksort [2025-08-10]
+- **2025-08-11 19:47:05 UTC**: refactor(builder): improve fluent query argument parsing [2025-08-11]
