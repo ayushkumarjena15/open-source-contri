@@ -1060,3 +1060,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-08-10 14:19:30 UTC**: perf(sorting): refine partition pivot selection in quicksort [2025-08-10]
 - **2025-08-11 19:47:05 UTC**: refactor(builder): improve fluent query argument parsing [2025-08-11]
 - **2025-08-11 18:57:44 UTC**: docs(complexity): update time and space asymptotic notations [2025-08-11]
+- **2025-08-13 19:16:37 UTC**: refactor(builder): improve fluent query argument parsing [2025-08-13]
