@@ -1078,3 +1078,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-08-17 11:19:12 UTC**: test(trie): expand autocomplete prefix query assertions [2025-08-17]
 - **2025-08-17 17:01:17 UTC**: perf(sorting): refine partition pivot selection in quicksort [2025-08-17]
 - **2025-08-17 18:30:12 UTC**: refactor(builder): improve fluent query argument parsing [2025-08-17]
+- **2025-08-17 22:45:00 UTC**: docs(patterns): refine observer pub-sub lifecycle documentation [2025-08-17]
