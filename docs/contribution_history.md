@@ -1091,3 +1091,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-08-20 21:20:13 UTC**: test(trie): expand autocomplete prefix query assertions [2025-08-20]
 - **2025-08-21 09:09:43 UTC**: chore(health): routine automated code quality inspection [2025-08-21]
 - **2025-08-21 12:44:33 UTC**: test(sorting): add extra test cases for duplicate keys [2025-08-21]
+- **2025-08-22 10:20:13 UTC**: perf(sorting): refine partition pivot selection in quicksort [2025-08-22]
