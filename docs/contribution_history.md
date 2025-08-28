@@ -1113,3 +1113,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-08-28 10:39:19 UTC**: chore(ci): verify cross-platform matrix test compatibility [2025-08-28]
 - **2025-08-28 19:38:38 UTC**: chore(ci): verify cross-platform matrix test compatibility [2025-08-28]
 - **2025-08-28 21:02:40 UTC**: refactor(builder): improve fluent query argument parsing [2025-08-28]
+- **2025-08-28 19:12:38 UTC**: docs(complexity): update time and space asymptotic notations [2025-08-28]
