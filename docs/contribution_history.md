@@ -1132,3 +1132,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-08-31 13:37:43 UTC**: perf(sorting): refine partition pivot selection in quicksort [2025-08-31]
 - **2025-09-01 11:11:58 UTC**: docs(notes): update memory locality notes in complexity sheet [2025-09-01]
 - **2025-09-01 20:56:16 UTC**: chore(activity): record automated algorithmic benchmark metrics [2025-09-01]
+- **2025-09-01 17:12:04 UTC**: docs(notes): update memory locality notes in complexity sheet [2025-09-01]
