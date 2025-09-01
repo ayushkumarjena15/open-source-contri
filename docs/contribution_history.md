@@ -1136,3 +1136,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-09-01 12:56:49 UTC**: test(graph): add topological sort edge case validation [2025-09-01]
 - **2025-09-01 18:40:30 UTC**: test(sorting): add extra test cases for duplicate keys [2025-09-01]
 - **2025-09-01 10:38:57 UTC**: refactor(utils): enhance string casing regex performance [2025-09-01]
+- **2025-09-01 14:39:06 UTC**: perf(data-structures): refine LRU cache node detachment speed [2025-09-01]
