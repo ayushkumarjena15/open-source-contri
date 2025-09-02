@@ -1146,3 +1146,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-09-02 18:51:04 UTC**: docs(complexity): update time and space asymptotic notations [2025-09-02]
 - **2025-09-02 14:32:29 UTC**: refactor(utils): enhance string casing regex performance [2025-09-02]
 - **2025-09-02 19:10:03 UTC**: refactor(algorithms): optimize search boundary checks [2025-09-02]
+- **2025-09-02 10:30:54 UTC**: perf(sorting): refine partition pivot selection in quicksort [2025-09-02]
