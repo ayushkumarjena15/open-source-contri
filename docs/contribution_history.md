@@ -1142,3 +1142,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-09-01 22:37:59 UTC**: perf(data-structures): refine LRU cache node detachment speed [2025-09-01]
 - **2025-09-02 19:33:34 UTC**: chore(health): routine automated code quality inspection [2025-09-02]
 - **2025-09-02 14:00:04 UTC**: refactor(builder): improve fluent query argument parsing [2025-09-02]
+- **2025-09-02 16:11:51 UTC**: perf(sorting): refine partition pivot selection in quicksort [2025-09-02]
