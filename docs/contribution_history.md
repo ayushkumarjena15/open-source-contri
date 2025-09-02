@@ -1147,3 +1147,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-09-02 14:32:29 UTC**: refactor(utils): enhance string casing regex performance [2025-09-02]
 - **2025-09-02 19:10:03 UTC**: refactor(algorithms): optimize search boundary checks [2025-09-02]
 - **2025-09-02 10:30:54 UTC**: perf(sorting): refine partition pivot selection in quicksort [2025-09-02]
+- **2025-09-02 12:34:40 UTC**: test(sorting): add extra test cases for duplicate keys [2025-09-02]
