@@ -1190,3 +1190,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-09-15 18:01:31 UTC**: test(graph): add topological sort edge case validation [2025-09-15]
 - **2025-09-15 15:21:40 UTC**: refactor(builder): improve fluent query argument parsing [2025-09-15]
 - **2025-09-15 13:28:55 UTC**: docs(complexity): update time and space asymptotic notations [2025-09-15]
+- **2025-09-15 16:04:03 UTC**: refactor(utils): enhance string casing regex performance [2025-09-15]
