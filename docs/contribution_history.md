@@ -1201,3 +1201,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-09-16 14:35:07 UTC**: perf(sorting): refine partition pivot selection in quicksort [2025-09-16]
 - **2025-09-16 22:17:55 UTC**: docs(patterns): refine observer pub-sub lifecycle documentation [2025-09-16]
 - **2025-09-16 18:19:26 UTC**: test(sorting): add extra test cases for duplicate keys [2025-09-16]
+- **2025-09-16 21:27:29 UTC**: docs(complexity): update time and space asymptotic notations [2025-09-16]
