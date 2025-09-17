@@ -1203,3 +1203,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-09-16 18:19:26 UTC**: test(sorting): add extra test cases for duplicate keys [2025-09-16]
 - **2025-09-16 21:27:29 UTC**: docs(complexity): update time and space asymptotic notations [2025-09-16]
 - **2025-09-17 21:37:02 UTC**: chore(ci): verify cross-platform matrix test compatibility [2025-09-17]
+- **2025-09-17 17:50:50 UTC**: refactor(builder): improve fluent query argument parsing [2025-09-17]
