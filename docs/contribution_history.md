@@ -1206,3 +1206,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-09-17 17:50:50 UTC**: refactor(builder): improve fluent query argument parsing [2025-09-17]
 - **2025-09-17 16:25:07 UTC**: perf(data-structures): refine LRU cache node detachment speed [2025-09-17]
 - **2025-09-17 11:56:23 UTC**: refactor(algorithms): optimize search boundary checks [2025-09-17]
+- **2025-09-17 21:42:07 UTC**: refactor(builder): improve fluent query argument parsing [2025-09-17]
