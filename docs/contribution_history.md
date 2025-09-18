@@ -1216,3 +1216,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-09-18 22:19:28 UTC**: docs(notes): update memory locality notes in complexity sheet [2025-09-18]
 - **2025-09-18 19:43:00 UTC**: test(sorting): add extra test cases for duplicate keys [2025-09-18]
 - **2025-09-18 12:03:05 UTC**: docs(insights): add daily CS engineering insight [2025-09-18]
+- **2025-09-18 16:03:44 UTC**: docs(readme): improve quickstart documentation and badges [2025-09-18]
