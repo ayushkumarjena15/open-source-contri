@@ -1212,3 +1212,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-09-18 16:41:35 UTC**: refactor(builder): improve fluent query argument parsing [2025-09-18]
 - **2025-09-18 12:53:51 UTC**: refactor(utils): enhance string casing regex performance [2025-09-18]
 - **2025-09-18 13:35:56 UTC**: refactor(builder): improve fluent query argument parsing [2025-09-18]
+- **2025-09-18 14:09:01 UTC**: perf(sorting): refine partition pivot selection in quicksort [2025-09-18]
