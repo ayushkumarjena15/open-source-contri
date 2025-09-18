@@ -1209,3 +1209,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-09-17 21:42:07 UTC**: refactor(builder): improve fluent query argument parsing [2025-09-17]
 - **2025-09-17 19:50:19 UTC**: docs(patterns): refine observer pub-sub lifecycle documentation [2025-09-17]
 - **2025-09-17 18:49:31 UTC**: test(trie): expand autocomplete prefix query assertions [2025-09-17]
+- **2025-09-18 16:41:35 UTC**: refactor(builder): improve fluent query argument parsing [2025-09-18]
