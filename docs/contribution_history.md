@@ -1211,3 +1211,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-09-17 18:49:31 UTC**: test(trie): expand autocomplete prefix query assertions [2025-09-17]
 - **2025-09-18 16:41:35 UTC**: refactor(builder): improve fluent query argument parsing [2025-09-18]
 - **2025-09-18 12:53:51 UTC**: refactor(utils): enhance string casing regex performance [2025-09-18]
+- **2025-09-18 13:35:56 UTC**: refactor(builder): improve fluent query argument parsing [2025-09-18]
