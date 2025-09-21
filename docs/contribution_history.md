@@ -1222,3 +1222,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-09-20 12:03:27 UTC**: chore(ci): verify cross-platform matrix test compatibility [2025-09-20]
 - **2025-09-20 09:38:35 UTC**: docs(patterns): refine observer pub-sub lifecycle documentation [2025-09-20]
 - **2025-09-21 13:16:27 UTC**: perf(data-structures): refine LRU cache node detachment speed [2025-09-21]
+- **2025-09-21 09:20:58 UTC**: refactor(builder): improve fluent query argument parsing [2025-09-21]
