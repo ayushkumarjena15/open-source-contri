@@ -1230,3 +1230,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-09-23 17:23:40 UTC**: test(sorting): add extra test cases for duplicate keys [2025-09-23]
 - **2025-09-23 13:37:26 UTC**: test(graph): add topological sort edge case validation [2025-09-23]
 - **2025-09-23 14:22:00 UTC**: chore(activity): record automated algorithmic benchmark metrics [2025-09-23]
+- **2025-09-23 22:18:30 UTC**: docs(complexity): update time and space asymptotic notations [2025-09-23]
