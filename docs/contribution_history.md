@@ -1242,3 +1242,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-09-24 14:47:37 UTC**: docs(benchmarks): update daily runtime performance benchmarks [2025-09-24]
 - **2025-09-24 14:42:35 UTC**: test(graph): add topological sort edge case validation [2025-09-24]
 - **2025-09-24 11:28:43 UTC**: chore(ci): verify cross-platform matrix test compatibility [2025-09-24]
+- **2025-09-24 14:17:47 UTC**: docs(notes): update memory locality notes in complexity sheet [2025-09-24]
