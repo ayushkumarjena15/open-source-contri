@@ -1249,3 +1249,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-09-25 12:32:25 UTC**: docs(notes): update memory locality notes in complexity sheet [2025-09-25]
 - **2025-09-25 13:38:12 UTC**: docs(readme): improve quickstart documentation and badges [2025-09-25]
 - **2025-09-25 14:12:21 UTC**: refactor(builder): improve fluent query argument parsing [2025-09-25]
+- **2025-09-25 11:44:52 UTC**: perf(sorting): refine partition pivot selection in quicksort [2025-09-25]
