@@ -1247,3 +1247,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-09-24 15:38:06 UTC**: perf(data-structures): refine LRU cache node detachment speed [2025-09-24]
 - **2025-09-24 16:22:50 UTC**: docs(benchmarks): update daily runtime performance benchmarks [2025-09-24]
 - **2025-09-25 12:32:25 UTC**: docs(notes): update memory locality notes in complexity sheet [2025-09-25]
+- **2025-09-25 13:38:12 UTC**: docs(readme): improve quickstart documentation and badges [2025-09-25]
