@@ -1278,3 +1278,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-09-30 19:38:06 UTC**: chore(ci): verify cross-platform matrix test compatibility [2025-09-30]
 - **2025-09-30 10:38:02 UTC**: docs(benchmarks): update daily runtime performance benchmarks [2025-09-30]
 - **2025-09-30 11:31:41 UTC**: test(graph): add topological sort edge case validation [2025-09-30]
+- **2025-10-01 21:58:50 UTC**: perf(sorting): refine partition pivot selection in quicksort [2025-10-01]
