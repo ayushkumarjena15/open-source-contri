@@ -1283,3 +1283,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-10-03 15:42:36 UTC**: refactor(utils): enhance string casing regex performance [2025-10-03]
 - **2025-10-04 12:02:33 UTC**: docs(patterns): refine observer pub-sub lifecycle documentation [2025-10-04]
 - **2025-10-04 17:25:37 UTC**: test(trie): expand autocomplete prefix query assertions [2025-10-04]
+- **2025-10-05 16:11:12 UTC**: perf(sorting): refine partition pivot selection in quicksort [2025-10-05]
