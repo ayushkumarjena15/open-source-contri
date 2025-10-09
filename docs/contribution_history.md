@@ -1295,3 +1295,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-10-08 20:45:35 UTC**: perf(data-structures): refine LRU cache node detachment speed [2025-10-08]
 - **2025-10-09 10:11:03 UTC**: test(trie): expand autocomplete prefix query assertions [2025-10-09]
 - **2025-10-09 22:13:16 UTC**: perf(data-structures): refine LRU cache node detachment speed [2025-10-09]
+- **2025-10-09 20:03:16 UTC**: docs(readme): improve quickstart documentation and badges [2025-10-09]
