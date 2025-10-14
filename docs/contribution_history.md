@@ -1315,3 +1315,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-10-14 14:20:55 UTC**: perf(sorting): refine partition pivot selection in quicksort [2025-10-14]
 - **2025-10-14 17:56:03 UTC**: docs(complexity): update time and space asymptotic notations [2025-10-14]
 - **2025-10-14 17:26:28 UTC**: docs(benchmarks): update daily runtime performance benchmarks [2025-10-14]
+- **2025-10-14 11:02:01 UTC**: test(sorting): add extra test cases for duplicate keys [2025-10-14]
