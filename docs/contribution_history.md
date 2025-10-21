@@ -1360,3 +1360,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-10-21 20:12:38 UTC**: docs(notes): update memory locality notes in complexity sheet [2025-10-21]
 - **2025-10-21 22:55:14 UTC**: docs(patterns): refine observer pub-sub lifecycle documentation [2025-10-21]
 - **2025-10-21 14:15:00 UTC**: docs(patterns): refine observer pub-sub lifecycle documentation [2025-10-21]
+- **2025-10-21 22:56:57 UTC**: docs(readme): improve quickstart documentation and badges [2025-10-21]
