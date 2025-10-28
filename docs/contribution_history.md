@@ -1404,3 +1404,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-10-28 22:04:10 UTC**: test(graph): add topological sort edge case validation [2025-10-28]
 - **2025-10-28 22:08:50 UTC**: test(trie): expand autocomplete prefix query assertions [2025-10-28]
 - **2025-10-28 14:40:48 UTC**: chore(health): routine automated code quality inspection [2025-10-28]
+- **2025-10-28 16:54:01 UTC**: refactor(builder): improve fluent query argument parsing [2025-10-28]
