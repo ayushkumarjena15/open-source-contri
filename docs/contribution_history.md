@@ -1410,3 +1410,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-10-29 14:05:17 UTC**: refactor(builder): improve fluent query argument parsing [2025-10-29]
 - **2025-10-29 14:51:29 UTC**: test(graph): add topological sort edge case validation [2025-10-29]
 - **2025-10-29 12:31:35 UTC**: chore(health): routine automated code quality inspection [2025-10-29]
+- **2025-10-30 10:11:04 UTC**: perf(sorting): refine partition pivot selection in quicksort [2025-10-30]
