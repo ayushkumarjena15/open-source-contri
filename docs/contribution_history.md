@@ -1431,3 +1431,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-11-04 12:41:34 UTC**: chore(health): routine automated code quality inspection [2025-11-04]
 - **2025-11-05 09:43:25 UTC**: docs(patterns): refine observer pub-sub lifecycle documentation [2025-11-05]
 - **2025-11-05 13:22:54 UTC**: docs(complexity): update time and space asymptotic notations [2025-11-05]
+- **2025-11-05 18:09:26 UTC**: docs(readme): improve quickstart documentation and badges [2025-11-05]
