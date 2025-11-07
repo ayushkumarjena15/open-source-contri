@@ -1435,3 +1435,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-11-06 20:13:51 UTC**: docs(patterns): refine observer pub-sub lifecycle documentation [2025-11-06]
 - **2025-11-06 21:34:35 UTC**: chore(activity): record automated algorithmic benchmark metrics [2025-11-06]
 - **2025-11-06 10:57:41 UTC**: test(sorting): add extra test cases for duplicate keys [2025-11-06]
+- **2025-11-07 12:22:08 UTC**: perf(sorting): refine partition pivot selection in quicksort [2025-11-07]
