@@ -1437,3 +1437,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-11-06 10:57:41 UTC**: test(sorting): add extra test cases for duplicate keys [2025-11-06]
 - **2025-11-07 12:22:08 UTC**: perf(sorting): refine partition pivot selection in quicksort [2025-11-07]
 - **2025-11-07 15:38:02 UTC**: docs(readme): improve quickstart documentation and badges [2025-11-07]
+- **2025-11-07 11:11:47 UTC**: perf(sorting): refine partition pivot selection in quicksort [2025-11-07]
