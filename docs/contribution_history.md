@@ -1444,3 +1444,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-11-07 16:18:29 UTC**: test(sorting): add extra test cases for duplicate keys [2025-11-07]
 - **2025-11-07 12:52:58 UTC**: docs(notes): update memory locality notes in complexity sheet [2025-11-07]
 - **2025-11-07 21:57:53 UTC**: refactor(builder): improve fluent query argument parsing [2025-11-07]
+- **2025-11-08 12:35:04 UTC**: refactor(algorithms): optimize search boundary checks [2025-11-08]
