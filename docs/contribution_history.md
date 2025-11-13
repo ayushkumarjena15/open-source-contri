@@ -1455,3 +1455,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-11-13 14:16:05 UTC**: refactor(utils): enhance string casing regex performance [2025-11-13]
 - **2025-11-13 13:36:06 UTC**: docs(patterns): refine observer pub-sub lifecycle documentation [2025-11-13]
 - **2025-11-13 10:19:53 UTC**: refactor(utils): enhance string casing regex performance [2025-11-13]
+- **2025-11-13 12:41:43 UTC**: docs(notes): update memory locality notes in complexity sheet [2025-11-13]
