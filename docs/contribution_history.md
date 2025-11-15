@@ -1466,3 +1466,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-11-15 16:38:18 UTC**: refactor(utils): enhance string casing regex performance [2025-11-15]
 - **2025-11-15 09:02:01 UTC**: docs(patterns): refine observer pub-sub lifecycle documentation [2025-11-15]
 - **2025-11-15 21:46:18 UTC**: docs(notes): update memory locality notes in complexity sheet [2025-11-15]
+- **2025-11-15 17:03:44 UTC**: perf(sorting): refine partition pivot selection in quicksort [2025-11-15]
