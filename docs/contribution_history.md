@@ -1473,3 +1473,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-11-16 14:28:19 UTC**: test(trie): expand autocomplete prefix query assertions [2025-11-16]
 - **2025-11-16 13:47:04 UTC**: chore(activity): record automated algorithmic benchmark metrics [2025-11-16]
 - **2025-11-16 15:05:46 UTC**: test(sorting): add extra test cases for duplicate keys [2025-11-16]
+- **2025-11-18 20:16:22 UTC**: docs(patterns): refine observer pub-sub lifecycle documentation [2025-11-18]
