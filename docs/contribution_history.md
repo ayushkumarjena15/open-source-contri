@@ -1498,3 +1498,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-11-21 17:12:08 UTC**: test(trie): expand autocomplete prefix query assertions [2025-11-21]
 - **2025-11-21 14:06:22 UTC**: perf(sorting): refine partition pivot selection in quicksort [2025-11-21]
 - **2025-11-21 17:46:46 UTC**: refactor(utils): enhance string casing regex performance [2025-11-21]
+- **2025-11-21 11:39:56 UTC**: test(sorting): add extra test cases for duplicate keys [2025-11-21]
