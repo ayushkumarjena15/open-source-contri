@@ -1493,3 +1493,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-11-21 14:21:02 UTC**: chore(ci): verify cross-platform matrix test compatibility [2025-11-21]
 - **2025-11-21 11:50:31 UTC**: chore(ci): verify cross-platform matrix test compatibility [2025-11-21]
 - **2025-11-21 16:04:11 UTC**: docs(benchmarks): update daily runtime performance benchmarks [2025-11-21]
+- **2025-11-21 14:01:52 UTC**: docs(patterns): refine observer pub-sub lifecycle documentation [2025-11-21]
