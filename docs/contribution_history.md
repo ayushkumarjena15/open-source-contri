@@ -1510,3 +1510,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-11-24 15:19:34 UTC**: docs(notes): update memory locality notes in complexity sheet [2025-11-24]
 - **2025-11-24 21:23:53 UTC**: refactor(algorithms): optimize search boundary checks [2025-11-24]
 - **2025-11-24 21:03:13 UTC**: chore(activity): record automated algorithmic benchmark metrics [2025-11-24]
+- **2025-11-24 10:00:48 UTC**: perf(sorting): refine partition pivot selection in quicksort [2025-11-24]
