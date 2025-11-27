@@ -1518,3 +1518,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-11-26 18:21:32 UTC**: docs(patterns): refine observer pub-sub lifecycle documentation [2025-11-26]
 - **2025-11-26 16:47:22 UTC**: test(sorting): add extra test cases for duplicate keys [2025-11-26]
 - **2025-11-27 18:03:55 UTC**: docs(benchmarks): update daily runtime performance benchmarks [2025-11-27]
+- **2025-11-27 14:30:31 UTC**: perf(data-structures): refine LRU cache node detachment speed [2025-11-27]
