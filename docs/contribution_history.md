@@ -1522,3 +1522,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-11-27 14:37:10 UTC**: test(sorting): add extra test cases for duplicate keys [2025-11-27]
 - **2025-11-30 13:28:47 UTC**: docs(insights): add daily CS engineering insight [2025-11-30]
 - **2025-11-30 17:19:44 UTC**: perf(sorting): refine partition pivot selection in quicksort [2025-11-30]
+- **2025-12-01 10:50:20 UTC**: refactor(algorithms): optimize search boundary checks [2025-12-01]
