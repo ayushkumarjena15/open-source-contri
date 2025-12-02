@@ -1534,3 +1534,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-12-01 15:53:53 UTC**: refactor(algorithms): optimize search boundary checks [2025-12-01]
 - **2025-12-02 20:42:03 UTC**: refactor(algorithms): optimize search boundary checks [2025-12-02]
 - **2025-12-02 18:45:37 UTC**: perf(data-structures): refine LRU cache node detachment speed [2025-12-02]
+- **2025-12-02 21:20:19 UTC**: docs(readme): improve quickstart documentation and badges [2025-12-02]
