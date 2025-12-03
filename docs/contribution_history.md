@@ -1541,3 +1541,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-12-02 20:50:34 UTC**: test(graph): add topological sort edge case validation [2025-12-02]
 - **2025-12-02 12:22:45 UTC**: test(graph): add topological sort edge case validation [2025-12-02]
 - **2025-12-02 17:35:57 UTC**: test(graph): add topological sort edge case validation [2025-12-02]
+- **2025-12-03 10:02:14 UTC**: refactor(builder): improve fluent query argument parsing [2025-12-03]
