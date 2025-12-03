@@ -1547,3 +1547,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-12-03 12:20:48 UTC**: refactor(utils): enhance string casing regex performance [2025-12-03]
 - **2025-12-03 21:12:46 UTC**: docs(patterns): refine observer pub-sub lifecycle documentation [2025-12-03]
 - **2025-12-03 21:14:27 UTC**: chore(metrics): sync daily repository activity and benchmark statistics [2025-12-03]
+- **2025-12-03 13:31:28 UTC**: docs(notes): update memory locality notes in complexity sheet [2025-12-03]
