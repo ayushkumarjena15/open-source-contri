@@ -1544,3 +1544,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-12-03 10:02:14 UTC**: refactor(builder): improve fluent query argument parsing [2025-12-03]
 - **2025-12-03 20:11:32 UTC**: docs(notes): update memory locality notes in complexity sheet [2025-12-03]
 - **2025-12-03 16:33:04 UTC**: perf(data-structures): refine LRU cache node detachment speed [2025-12-03]
+- **2025-12-03 12:20:48 UTC**: refactor(utils): enhance string casing regex performance [2025-12-03]
