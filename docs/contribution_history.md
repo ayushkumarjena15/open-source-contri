@@ -1552,3 +1552,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-12-04 11:54:11 UTC**: docs(complexity): update time and space asymptotic notations [2025-12-04]
 - **2025-12-04 21:26:21 UTC**: test(trie): expand autocomplete prefix query assertions [2025-12-04]
 - **2025-12-04 09:09:00 UTC**: test(trie): expand autocomplete prefix query assertions [2025-12-04]
+- **2025-12-04 20:35:43 UTC**: refactor(utils): enhance string casing regex performance [2025-12-04]
