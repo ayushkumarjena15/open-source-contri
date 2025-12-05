@@ -1561,3 +1561,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-12-05 21:35:07 UTC**: docs(readme): improve quickstart documentation and badges [2025-12-05]
 - **2025-12-05 10:30:11 UTC**: docs(readme): improve quickstart documentation and badges [2025-12-05]
 - **2025-12-05 14:49:12 UTC**: docs(insights): add daily CS engineering insight [2025-12-05]
+- **2025-12-05 16:32:36 UTC**: refactor(builder): improve fluent query argument parsing [2025-12-05]
