@@ -1563,3 +1563,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-12-05 14:49:12 UTC**: docs(insights): add daily CS engineering insight [2025-12-05]
 - **2025-12-05 16:32:36 UTC**: refactor(builder): improve fluent query argument parsing [2025-12-05]
 - **2025-12-05 10:27:29 UTC**: refactor(algorithms): optimize search boundary checks [2025-12-05]
+- **2025-12-06 14:26:23 UTC**: docs(notes): update memory locality notes in complexity sheet [2025-12-06]
