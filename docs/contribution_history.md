@@ -1586,3 +1586,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-12-10 21:48:12 UTC**: test(sorting): add extra test cases for duplicate keys [2025-12-10]
 - **2025-12-10 14:51:35 UTC**: docs(benchmarks): update daily runtime performance benchmarks [2025-12-10]
 - **2025-12-10 16:01:29 UTC**: docs(benchmarks): update daily runtime performance benchmarks [2025-12-10]
+- **2025-12-10 17:52:10 UTC**: refactor(utils): enhance string casing regex performance [2025-12-10]
