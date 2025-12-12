@@ -1592,3 +1592,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-12-12 12:47:11 UTC**: refactor(algorithms): optimize search boundary checks [2025-12-12]
 - **2025-12-12 12:06:13 UTC**: perf(sorting): refine partition pivot selection in quicksort [2025-12-12]
 - **2025-12-12 09:55:28 UTC**: refactor(builder): improve fluent query argument parsing [2025-12-12]
+- **2025-12-12 22:56:17 UTC**: refactor(utils): enhance string casing regex performance [2025-12-12]
