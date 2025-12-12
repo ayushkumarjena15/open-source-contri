@@ -1590,3 +1590,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-12-10 15:08:55 UTC**: perf(data-structures): refine LRU cache node detachment speed [2025-12-10]
 - **2025-12-11 12:26:41 UTC**: chore(activity): record automated algorithmic benchmark metrics [2025-12-11]
 - **2025-12-12 12:47:11 UTC**: refactor(algorithms): optimize search boundary checks [2025-12-12]
+- **2025-12-12 12:06:13 UTC**: perf(sorting): refine partition pivot selection in quicksort [2025-12-12]
