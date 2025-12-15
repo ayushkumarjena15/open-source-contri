@@ -1608,3 +1608,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-12-15 21:42:46 UTC**: refactor(algorithms): optimize search boundary checks [2025-12-15]
 - **2025-12-15 11:45:39 UTC**: docs(insights): add daily CS engineering insight [2025-12-15]
 - **2025-12-15 19:23:24 UTC**: test(sorting): add extra test cases for duplicate keys [2025-12-15]
+- **2025-12-15 10:33:18 UTC**: docs(complexity): update time and space asymptotic notations [2025-12-15]
