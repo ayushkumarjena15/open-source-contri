@@ -1612,3 +1612,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-12-15 15:41:57 UTC**: docs(readme): improve quickstart documentation and badges [2025-12-15]
 - **2025-12-15 12:18:24 UTC**: refactor(utils): enhance string casing regex performance [2025-12-15]
 - **2025-12-15 18:25:00 UTC**: chore(ci): verify cross-platform matrix test compatibility [2025-12-15]
+- **2025-12-16 15:37:21 UTC**: docs(complexity): update time and space asymptotic notations [2025-12-16]
