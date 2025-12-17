@@ -1623,3 +1623,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-12-17 10:35:26 UTC**: chore(ci): verify cross-platform matrix test compatibility [2025-12-17]
 - **2025-12-17 21:18:50 UTC**: docs(benchmarks): update daily runtime performance benchmarks [2025-12-17]
 - **2025-12-17 15:28:55 UTC**: refactor(builder): improve fluent query argument parsing [2025-12-17]
+- **2025-12-17 20:04:08 UTC**: docs(notes): update memory locality notes in complexity sheet [2025-12-17]
