@@ -1633,3 +1633,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-12-22 16:22:42 UTC**: chore(metrics): sync daily repository activity and benchmark statistics [2025-12-22]
 - **2025-12-22 11:53:14 UTC**: docs(notes): update memory locality notes in complexity sheet [2025-12-22]
 - **2025-12-23 21:25:24 UTC**: refactor(builder): improve fluent query argument parsing [2025-12-23]
+- **2025-12-23 12:08:22 UTC**: refactor(builder): improve fluent query argument parsing [2025-12-23]
