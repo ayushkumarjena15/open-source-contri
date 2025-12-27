@@ -1654,3 +1654,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-12-27 17:48:24 UTC**: test(graph): add topological sort edge case validation [2025-12-27]
 - **2025-12-27 17:39:25 UTC**: docs(insights): add daily CS engineering insight [2025-12-27]
 - **2025-12-27 11:32:27 UTC**: refactor(builder): improve fluent query argument parsing [2025-12-27]
+- **2025-12-27 18:08:08 UTC**: perf(sorting): refine partition pivot selection in quicksort [2025-12-27]
