@@ -1661,3 +1661,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-12-28 18:07:54 UTC**: test(sorting): add extra test cases for duplicate keys [2025-12-28]
 - **2025-12-28 16:48:54 UTC**: refactor(builder): improve fluent query argument parsing [2025-12-28]
 - **2025-12-30 11:33:25 UTC**: test(sorting): add extra test cases for duplicate keys [2025-12-30]
+- **2025-12-30 17:38:28 UTC**: perf(data-structures): refine LRU cache node detachment speed [2025-12-30]
