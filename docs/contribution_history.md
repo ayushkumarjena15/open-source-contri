@@ -1676,3 +1676,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2026-01-02 14:10:26 UTC**: docs(complexity): update time and space asymptotic notations [2026-01-02]
 - **2026-01-02 10:37:09 UTC**: chore(ci): verify cross-platform matrix test compatibility [2026-01-02]
 - **2026-01-02 19:50:06 UTC**: perf(sorting): refine partition pivot selection in quicksort [2026-01-02]
+- **2026-01-02 10:34:26 UTC**: docs(patterns): refine observer pub-sub lifecycle documentation [2026-01-02]
