@@ -1672,3 +1672,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2025-12-31 10:21:18 UTC**: perf(data-structures): refine LRU cache node detachment speed [2025-12-31]
 - **2025-12-31 13:27:53 UTC**: docs(benchmarks): update daily runtime performance benchmarks [2025-12-31]
 - **2026-01-01 11:15:13 UTC**: docs(patterns): refine observer pub-sub lifecycle documentation [2026-01-01]
+- **2026-01-02 21:17:02 UTC**: refactor(builder): improve fluent query argument parsing [2026-01-02]
