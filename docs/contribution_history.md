@@ -1684,3 +1684,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2026-01-04 20:16:57 UTC**: docs(readme): improve quickstart documentation and badges [2026-01-04]
 - **2026-01-04 18:50:58 UTC**: refactor(algorithms): optimize search boundary checks [2026-01-04]
 - **2026-01-04 10:47:43 UTC**: refactor(algorithms): optimize search boundary checks [2026-01-04]
+- **2026-01-04 14:42:53 UTC**: test(sorting): add extra test cases for duplicate keys [2026-01-04]
