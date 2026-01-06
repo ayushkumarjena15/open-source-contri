@@ -1690,3 +1690,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2026-01-06 14:26:43 UTC**: docs(notes): update memory locality notes in complexity sheet [2026-01-06]
 - **2026-01-06 16:53:52 UTC**: refactor(builder): improve fluent query argument parsing [2026-01-06]
 - **2026-01-06 09:36:38 UTC**: test(graph): add topological sort edge case validation [2026-01-06]
+- **2026-01-06 19:56:31 UTC**: perf(data-structures): refine LRU cache node detachment speed [2026-01-06]
