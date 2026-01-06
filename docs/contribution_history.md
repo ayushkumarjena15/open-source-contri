@@ -1686,3 +1686,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2026-01-04 10:47:43 UTC**: refactor(algorithms): optimize search boundary checks [2026-01-04]
 - **2026-01-04 14:42:53 UTC**: test(sorting): add extra test cases for duplicate keys [2026-01-04]
 - **2026-01-04 18:03:28 UTC**: test(trie): expand autocomplete prefix query assertions [2026-01-04]
+- **2026-01-06 12:09:45 UTC**: refactor(builder): improve fluent query argument parsing [2026-01-06]
