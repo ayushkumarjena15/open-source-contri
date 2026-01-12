@@ -1718,3 +1718,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2026-01-12 09:30:51 UTC**: test(graph): add topological sort edge case validation [2026-01-12]
 - **2026-01-12 16:11:48 UTC**: refactor(algorithms): optimize search boundary checks [2026-01-12]
 - **2026-01-12 19:22:26 UTC**: refactor(builder): improve fluent query argument parsing [2026-01-12]
+- **2026-01-12 21:54:39 UTC**: docs(patterns): refine observer pub-sub lifecycle documentation [2026-01-12]
