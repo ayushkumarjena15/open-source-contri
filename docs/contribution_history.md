@@ -1724,3 +1724,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2026-01-13 17:55:29 UTC**: chore(ci): verify cross-platform matrix test compatibility [2026-01-13]
 - **2026-01-13 12:14:05 UTC**: refactor(builder): improve fluent query argument parsing [2026-01-13]
 - **2026-01-13 12:08:31 UTC**: docs(patterns): refine observer pub-sub lifecycle documentation [2026-01-13]
+- **2026-01-14 15:15:00 UTC**: perf(sorting): refine partition pivot selection in quicksort [2026-01-14]
