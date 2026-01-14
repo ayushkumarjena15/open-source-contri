@@ -1730,3 +1730,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2026-01-14 13:18:49 UTC**: docs(patterns): refine observer pub-sub lifecycle documentation [2026-01-14]
 - **2026-01-14 15:08:54 UTC**: docs(complexity): update time and space asymptotic notations [2026-01-14]
 - **2026-01-14 15:00:19 UTC**: refactor(builder): improve fluent query argument parsing [2026-01-14]
+- **2026-01-14 09:51:50 UTC**: docs(readme): improve quickstart documentation and badges [2026-01-14]
