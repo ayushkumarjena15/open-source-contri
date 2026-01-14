@@ -1732,3 +1732,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2026-01-14 15:00:19 UTC**: refactor(builder): improve fluent query argument parsing [2026-01-14]
 - **2026-01-14 09:51:50 UTC**: docs(readme): improve quickstart documentation and badges [2026-01-14]
 - **2026-01-14 21:50:56 UTC**: chore(metrics): sync daily repository activity and benchmark statistics [2026-01-14]
+- **2026-01-14 21:24:57 UTC**: docs(notes): update memory locality notes in complexity sheet [2026-01-14]
