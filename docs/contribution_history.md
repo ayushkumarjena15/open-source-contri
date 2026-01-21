@@ -1748,3 +1748,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2026-01-19 12:05:26 UTC**: perf(sorting): refine partition pivot selection in quicksort [2026-01-19]
 - **2026-01-19 22:02:33 UTC**: chore(health): routine automated code quality inspection [2026-01-19]
 - **2026-01-19 13:18:14 UTC**: perf(sorting): refine partition pivot selection in quicksort [2026-01-19]
+- **2026-01-21 14:25:15 UTC**: refactor(utils): enhance string casing regex performance [2026-01-21]
