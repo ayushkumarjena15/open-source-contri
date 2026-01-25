@@ -1778,3 +1778,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2026-01-25 12:24:11 UTC**: docs(readme): improve quickstart documentation and badges [2026-01-25]
 - **2026-01-25 19:38:33 UTC**: perf(sorting): refine partition pivot selection in quicksort [2026-01-25]
 - **2026-01-25 17:02:08 UTC**: refactor(builder): improve fluent query argument parsing [2026-01-25]
+- **2026-01-25 10:50:29 UTC**: test(sorting): add extra test cases for duplicate keys [2026-01-25]
