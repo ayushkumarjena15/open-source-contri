@@ -1775,3 +1775,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2026-01-25 13:29:46 UTC**: docs(complexity): update time and space asymptotic notations [2026-01-25]
 - **2026-01-25 09:03:09 UTC**: test(sorting): add extra test cases for duplicate keys [2026-01-25]
 - **2026-01-25 16:12:28 UTC**: refactor(algorithms): optimize search boundary checks [2026-01-25]
+- **2026-01-25 12:24:11 UTC**: docs(readme): improve quickstart documentation and badges [2026-01-25]
