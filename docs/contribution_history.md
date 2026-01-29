@@ -1789,3 +1789,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2026-01-29 21:34:03 UTC**: chore(activity): record automated algorithmic benchmark metrics [2026-01-29]
 - **2026-01-29 21:46:44 UTC**: docs(notes): update memory locality notes in complexity sheet [2026-01-29]
 - **2026-01-29 17:53:06 UTC**: test(trie): expand autocomplete prefix query assertions [2026-01-29]
+- **2026-01-29 14:44:01 UTC**: docs(readme): improve quickstart documentation and badges [2026-01-29]
