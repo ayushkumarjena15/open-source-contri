@@ -1799,3 +1799,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2026-02-02 20:08:34 UTC**: perf(sorting): refine partition pivot selection in quicksort [2026-02-02]
 - **2026-02-02 19:07:26 UTC**: chore(ci): verify cross-platform matrix test compatibility [2026-02-02]
 - **2026-02-02 15:08:29 UTC**: perf(sorting): refine partition pivot selection in quicksort [2026-02-02]
+- **2026-02-02 13:18:48 UTC**: test(graph): add topological sort edge case validation [2026-02-02]
