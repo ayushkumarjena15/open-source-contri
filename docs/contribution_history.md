@@ -1820,3 +1820,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2026-02-06 18:03:13 UTC**: docs(complexity): update time and space asymptotic notations [2026-02-06]
 - **2026-02-06 14:14:34 UTC**: docs(benchmarks): update daily runtime performance benchmarks [2026-02-06]
 - **2026-02-06 14:39:06 UTC**: perf(sorting): refine partition pivot selection in quicksort [2026-02-06]
+- **2026-02-06 16:33:29 UTC**: docs(notes): update memory locality notes in complexity sheet [2026-02-06]
