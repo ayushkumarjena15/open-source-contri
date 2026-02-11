@@ -1831,3 +1831,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2026-02-08 11:04:59 UTC**: docs(benchmarks): update daily runtime performance benchmarks [2026-02-08]
 - **2026-02-09 14:10:52 UTC**: refactor(utils): enhance string casing regex performance [2026-02-09]
 - **2026-02-09 19:45:11 UTC**: refactor(utils): enhance string casing regex performance [2026-02-09]
+- **2026-02-11 13:13:09 UTC**: perf(sorting): refine partition pivot selection in quicksort [2026-02-11]
