@@ -1835,3 +1835,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2026-02-11 12:57:01 UTC**: docs(benchmarks): update daily runtime performance benchmarks [2026-02-11]
 - **2026-02-11 17:02:10 UTC**: docs(patterns): refine observer pub-sub lifecycle documentation [2026-02-11]
 - **2026-02-11 09:55:48 UTC**: docs(insights): add daily CS engineering insight [2026-02-11]
+- **2026-02-12 10:33:01 UTC**: docs(complexity): update time and space asymptotic notations [2026-02-12]
