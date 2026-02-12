@@ -1837,3 +1837,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2026-02-11 09:55:48 UTC**: docs(insights): add daily CS engineering insight [2026-02-11]
 - **2026-02-12 10:33:01 UTC**: docs(complexity): update time and space asymptotic notations [2026-02-12]
 - **2026-02-12 21:32:08 UTC**: docs(complexity): update time and space asymptotic notations [2026-02-12]
+- **2026-02-12 20:26:06 UTC**: docs(notes): update memory locality notes in complexity sheet [2026-02-12]
