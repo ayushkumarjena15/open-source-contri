@@ -1881,3 +1881,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2026-02-20 14:01:37 UTC**: chore(metrics): sync daily repository activity and benchmark statistics [2026-02-20]
 - **2026-02-21 18:35:01 UTC**: test(sorting): add extra test cases for duplicate keys [2026-02-21]
 - **2026-02-21 19:46:33 UTC**: test(trie): expand autocomplete prefix query assertions [2026-02-21]
+- **2026-02-21 12:20:14 UTC**: docs(notes): update memory locality notes in complexity sheet [2026-02-21]
