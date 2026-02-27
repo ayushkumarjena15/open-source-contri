@@ -1902,3 +1902,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2026-02-27 18:45:27 UTC**: chore(ci): verify cross-platform matrix test compatibility [2026-02-27]
 - **2026-02-27 21:01:13 UTC**: docs(notes): update memory locality notes in complexity sheet [2026-02-27]
 - **2026-02-27 19:08:23 UTC**: test(graph): add topological sort edge case validation [2026-02-27]
+- **2026-02-27 19:43:46 UTC**: docs(patterns): refine observer pub-sub lifecycle documentation [2026-02-27]
