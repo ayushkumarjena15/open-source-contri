@@ -1935,3 +1935,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2026-03-06 13:16:04 UTC**: perf(sorting): refine partition pivot selection in quicksort [2026-03-06]
 - **2026-03-06 12:39:41 UTC**: chore(ci): verify cross-platform matrix test compatibility [2026-03-06]
 - **2026-03-06 18:22:15 UTC**: test(sorting): add extra test cases for duplicate keys [2026-03-06]
+- **2026-03-07 22:47:51 UTC**: docs(notes): update memory locality notes in complexity sheet [2026-03-07]
