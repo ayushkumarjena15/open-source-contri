@@ -1941,3 +1941,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2026-03-07 12:52:52 UTC**: docs(patterns): refine observer pub-sub lifecycle documentation [2026-03-07]
 - **2026-03-07 15:46:50 UTC**: docs(notes): update memory locality notes in complexity sheet [2026-03-07]
 - **2026-03-07 21:42:17 UTC**: chore(activity): record automated algorithmic benchmark metrics [2026-03-07]
+- **2026-03-07 16:07:25 UTC**: refactor(builder): improve fluent query argument parsing [2026-03-07]
