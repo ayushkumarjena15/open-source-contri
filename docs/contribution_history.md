@@ -1946,3 +1946,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2026-03-07 18:29:21 UTC**: chore(activity): record automated algorithmic benchmark metrics [2026-03-07]
 - **2026-03-07 13:26:16 UTC**: perf(data-structures): refine LRU cache node detachment speed [2026-03-07]
 - **2026-03-09 16:31:53 UTC**: perf(sorting): refine partition pivot selection in quicksort [2026-03-09]
+- **2026-03-09 20:56:32 UTC**: refactor(builder): improve fluent query argument parsing [2026-03-09]
