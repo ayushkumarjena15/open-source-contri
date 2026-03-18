@@ -1973,3 +1973,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2026-03-17 09:07:42 UTC**: test(trie): expand autocomplete prefix query assertions [2026-03-17]
 - **2026-03-17 13:14:05 UTC**: refactor(builder): improve fluent query argument parsing [2026-03-17]
 - **2026-03-18 10:55:18 UTC**: chore(metrics): sync daily repository activity and benchmark statistics [2026-03-18]
+- **2026-03-18 19:27:57 UTC**: perf(sorting): refine partition pivot selection in quicksort [2026-03-18]
