@@ -1976,3 +1976,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2026-03-18 19:27:57 UTC**: perf(sorting): refine partition pivot selection in quicksort [2026-03-18]
 - **2026-03-18 12:36:34 UTC**: docs(readme): improve quickstart documentation and badges [2026-03-18]
 - **2026-03-18 16:15:28 UTC**: test(trie): expand autocomplete prefix query assertions [2026-03-18]
+- **2026-03-19 19:40:16 UTC**: perf(sorting): refine partition pivot selection in quicksort [2026-03-19]
