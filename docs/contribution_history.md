@@ -1984,3 +1984,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2026-03-19 17:16:20 UTC**: refactor(builder): improve fluent query argument parsing [2026-03-19]
 - **2026-03-19 22:16:55 UTC**: test(sorting): add extra test cases for duplicate keys [2026-03-19]
 - **2026-03-19 10:08:38 UTC**: docs(benchmarks): update daily runtime performance benchmarks [2026-03-19]
+- **2026-03-19 15:56:02 UTC**: docs(complexity): update time and space asymptotic notations [2026-03-19]
