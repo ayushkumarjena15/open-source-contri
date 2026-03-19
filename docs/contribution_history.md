@@ -1978,3 +1978,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2026-03-18 16:15:28 UTC**: test(trie): expand autocomplete prefix query assertions [2026-03-18]
 - **2026-03-19 19:40:16 UTC**: perf(sorting): refine partition pivot selection in quicksort [2026-03-19]
 - **2026-03-19 21:27:06 UTC**: docs(notes): update memory locality notes in complexity sheet [2026-03-19]
+- **2026-03-19 17:58:03 UTC**: refactor(utils): enhance string casing regex performance [2026-03-19]
