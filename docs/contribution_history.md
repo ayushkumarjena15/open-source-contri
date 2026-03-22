@@ -1991,3 +1991,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2026-03-22 20:33:17 UTC**: perf(data-structures): refine LRU cache node detachment speed [2026-03-22]
 - **2026-03-22 14:05:22 UTC**: perf(data-structures): refine LRU cache node detachment speed [2026-03-22]
 - **2026-03-22 19:25:30 UTC**: test(graph): add topological sort edge case validation [2026-03-22]
+- **2026-03-22 21:04:34 UTC**: test(sorting): add extra test cases for duplicate keys [2026-03-22]
