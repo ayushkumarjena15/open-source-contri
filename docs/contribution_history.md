@@ -2010,3 +2010,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2026-03-27 16:10:18 UTC**: docs(complexity): update time and space asymptotic notations [2026-03-27]
 - **2026-03-27 11:02:30 UTC**: perf(data-structures): refine LRU cache node detachment speed [2026-03-27]
 - **2026-03-27 19:23:28 UTC**: refactor(utils): enhance string casing regex performance [2026-03-27]
+- **2026-03-27 11:10:49 UTC**: test(sorting): add extra test cases for duplicate keys [2026-03-27]
