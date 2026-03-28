@@ -2015,3 +2015,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2026-03-27 22:08:50 UTC**: chore(metrics): sync daily repository activity and benchmark statistics [2026-03-27]
 - **2026-03-28 10:09:33 UTC**: test(sorting): add extra test cases for duplicate keys [2026-03-28]
 - **2026-03-28 22:41:58 UTC**: docs(readme): improve quickstart documentation and badges [2026-03-28]
+- **2026-03-28 11:20:16 UTC**: perf(sorting): refine partition pivot selection in quicksort [2026-03-28]
