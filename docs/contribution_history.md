@@ -2018,3 +2018,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2026-03-28 11:20:16 UTC**: perf(sorting): refine partition pivot selection in quicksort [2026-03-28]
 - **2026-03-28 09:23:18 UTC**: perf(data-structures): refine LRU cache node detachment speed [2026-03-28]
 - **2026-03-29 09:15:26 UTC**: docs(notes): update memory locality notes in complexity sheet [2026-03-29]
+- **2026-03-29 20:42:07 UTC**: perf(sorting): refine partition pivot selection in quicksort [2026-03-29]
