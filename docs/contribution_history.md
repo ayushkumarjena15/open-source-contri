@@ -2020,3 +2020,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2026-03-29 09:15:26 UTC**: docs(notes): update memory locality notes in complexity sheet [2026-03-29]
 - **2026-03-29 20:42:07 UTC**: perf(sorting): refine partition pivot selection in quicksort [2026-03-29]
 - **2026-03-30 15:49:14 UTC**: chore(health): routine automated code quality inspection [2026-03-30]
+- **2026-03-30 10:35:08 UTC**: docs(readme): improve quickstart documentation and badges [2026-03-30]
