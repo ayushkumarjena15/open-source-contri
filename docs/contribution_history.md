@@ -2032,3 +2032,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2026-03-31 19:21:31 UTC**: perf(sorting): refine partition pivot selection in quicksort [2026-03-31]
 - **2026-03-31 13:58:00 UTC**: test(trie): expand autocomplete prefix query assertions [2026-03-31]
 - **2026-03-31 16:49:09 UTC**: refactor(algorithms): optimize search boundary checks [2026-03-31]
+- **2026-03-31 18:20:02 UTC**: perf(data-structures): refine LRU cache node detachment speed [2026-03-31]
