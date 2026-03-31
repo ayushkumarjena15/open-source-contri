@@ -2027,3 +2027,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2026-03-30 10:38:20 UTC**: docs(patterns): refine observer pub-sub lifecycle documentation [2026-03-30]
 - **2026-03-30 15:00:11 UTC**: perf(sorting): refine partition pivot selection in quicksort [2026-03-30]
 - **2026-03-30 14:13:59 UTC**: refactor(utils): enhance string casing regex performance [2026-03-30]
+- **2026-03-31 21:38:38 UTC**: perf(data-structures): refine LRU cache node detachment speed [2026-03-31]
