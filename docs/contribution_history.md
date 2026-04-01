@@ -2034,3 +2034,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2026-03-31 16:49:09 UTC**: refactor(algorithms): optimize search boundary checks [2026-03-31]
 - **2026-03-31 18:20:02 UTC**: perf(data-structures): refine LRU cache node detachment speed [2026-03-31]
 - **2026-03-31 16:01:05 UTC**: docs(patterns): refine observer pub-sub lifecycle documentation [2026-03-31]
+- **2026-04-01 12:11:12 UTC**: perf(sorting): refine partition pivot selection in quicksort [2026-04-01]
