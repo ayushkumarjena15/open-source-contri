@@ -2039,3 +2039,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2026-04-01 10:26:48 UTC**: chore(ci): verify cross-platform matrix test compatibility [2026-04-01]
 - **2026-04-01 14:02:16 UTC**: test(trie): expand autocomplete prefix query assertions [2026-04-01]
 - **2026-04-03 21:22:30 UTC**: test(trie): expand autocomplete prefix query assertions [2026-04-03]
+- **2026-04-03 18:24:49 UTC**: docs(complexity): update time and space asymptotic notations [2026-04-03]
