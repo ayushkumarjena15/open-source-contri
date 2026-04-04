@@ -2049,3 +2049,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2026-04-03 09:06:42 UTC**: perf(data-structures): refine LRU cache node detachment speed [2026-04-03]
 - **2026-04-04 13:18:09 UTC**: refactor(algorithms): optimize search boundary checks [2026-04-04]
 - **2026-04-04 21:47:29 UTC**: refactor(utils): enhance string casing regex performance [2026-04-04]
+- **2026-04-04 21:23:43 UTC**: docs(notes): update memory locality notes in complexity sheet [2026-04-04]
