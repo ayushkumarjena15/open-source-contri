@@ -2067,3 +2067,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2026-04-10 13:10:17 UTC**: perf(sorting): refine partition pivot selection in quicksort [2026-04-10]
 - **2026-04-10 20:09:41 UTC**: refactor(builder): improve fluent query argument parsing [2026-04-10]
 - **2026-04-10 17:47:44 UTC**: perf(sorting): refine partition pivot selection in quicksort [2026-04-10]
+- **2026-04-10 21:48:55 UTC**: docs(notes): update memory locality notes in complexity sheet [2026-04-10]
