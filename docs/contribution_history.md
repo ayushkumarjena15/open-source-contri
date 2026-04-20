@@ -2101,3 +2101,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2026-04-18 21:35:15 UTC**: chore(ci): verify cross-platform matrix test compatibility [2026-04-18]
 - **2026-04-18 15:28:31 UTC**: docs(benchmarks): update daily runtime performance benchmarks [2026-04-18]
 - **2026-04-18 20:17:16 UTC**: perf(data-structures): refine LRU cache node detachment speed [2026-04-18]
+- **2026-04-20 18:43:32 UTC**: docs(notes): update memory locality notes in complexity sheet [2026-04-20]
