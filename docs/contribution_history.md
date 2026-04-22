@@ -2107,3 +2107,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2026-04-20 13:47:34 UTC**: docs(notes): update memory locality notes in complexity sheet [2026-04-20]
 - **2026-04-22 18:42:23 UTC**: test(trie): expand autocomplete prefix query assertions [2026-04-22]
 - **2026-04-22 09:32:32 UTC**: refactor(builder): improve fluent query argument parsing [2026-04-22]
+- **2026-04-22 09:50:21 UTC**: refactor(builder): improve fluent query argument parsing [2026-04-22]
