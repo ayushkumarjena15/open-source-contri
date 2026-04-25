@@ -2124,3 +2124,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2026-04-25 09:06:00 UTC**: refactor(builder): improve fluent query argument parsing [2026-04-25]
 - **2026-04-25 13:26:13 UTC**: perf(sorting): refine partition pivot selection in quicksort [2026-04-25]
 - **2026-04-25 16:16:25 UTC**: refactor(builder): improve fluent query argument parsing [2026-04-25]
+- **2026-04-25 18:12:39 UTC**: docs(readme): improve quickstart documentation and badges [2026-04-25]
