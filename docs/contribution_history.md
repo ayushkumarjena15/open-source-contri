@@ -2121,3 +2121,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2026-04-23 20:02:19 UTC**: docs(notes): update memory locality notes in complexity sheet [2026-04-23]
 - **2026-04-25 11:21:57 UTC**: docs(insights): add daily CS engineering insight [2026-04-25]
 - **2026-04-25 09:53:59 UTC**: refactor(algorithms): optimize search boundary checks [2026-04-25]
+- **2026-04-25 09:06:00 UTC**: refactor(builder): improve fluent query argument parsing [2026-04-25]
