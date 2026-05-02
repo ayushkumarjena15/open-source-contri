@@ -2139,3 +2139,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2026-05-01 17:57:02 UTC**: docs(readme): improve quickstart documentation and badges [2026-05-01]
 - **2026-05-01 22:32:07 UTC**: docs(readme): improve quickstart documentation and badges [2026-05-01]
 - **2026-05-01 18:06:06 UTC**: docs(benchmarks): update daily runtime performance benchmarks [2026-05-01]
+- **2026-05-02 17:15:30 UTC**: test(graph): add topological sort edge case validation [2026-05-02]
