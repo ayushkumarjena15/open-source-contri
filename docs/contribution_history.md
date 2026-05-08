@@ -2153,3 +2153,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2026-05-06 09:16:58 UTC**: perf(sorting): refine partition pivot selection in quicksort [2026-05-06]
 - **2026-05-06 09:48:36 UTC**: perf(data-structures): refine LRU cache node detachment speed [2026-05-06]
 - **2026-05-08 13:30:33 UTC**: refactor(algorithms): optimize search boundary checks [2026-05-08]
+- **2026-05-08 21:57:41 UTC**: docs(complexity): update time and space asymptotic notations [2026-05-08]
