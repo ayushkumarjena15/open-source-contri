@@ -2156,3 +2156,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2026-05-08 21:57:41 UTC**: docs(complexity): update time and space asymptotic notations [2026-05-08]
 - **2026-05-08 20:18:46 UTC**: test(trie): expand autocomplete prefix query assertions [2026-05-08]
 - **2026-05-08 21:22:59 UTC**: perf(data-structures): refine LRU cache node detachment speed [2026-05-08]
+- **2026-05-08 11:10:49 UTC**: refactor(utils): enhance string casing regex performance [2026-05-08]
