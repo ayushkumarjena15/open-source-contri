@@ -2165,3 +2165,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2026-05-09 12:01:25 UTC**: refactor(builder): improve fluent query argument parsing [2026-05-09]
 - **2026-05-09 12:28:44 UTC**: perf(sorting): refine partition pivot selection in quicksort [2026-05-09]
 - **2026-05-09 20:24:05 UTC**: test(graph): add topological sort edge case validation [2026-05-09]
+- **2026-05-09 15:40:09 UTC**: refactor(utils): enhance string casing regex performance [2026-05-09]
