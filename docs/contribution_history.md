@@ -2169,3 +2169,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2026-05-10 19:08:43 UTC**: refactor(utils): enhance string casing regex performance [2026-05-10]
 - **2026-05-11 20:39:17 UTC**: refactor(algorithms): optimize search boundary checks [2026-05-11]
 - **2026-05-11 21:10:46 UTC**: docs(readme): improve quickstart documentation and badges [2026-05-11]
+- **2026-05-14 21:19:09 UTC**: docs(complexity): update time and space asymptotic notations [2026-05-14]
