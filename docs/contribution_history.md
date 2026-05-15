@@ -2182,3 +2182,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2026-05-15 10:36:54 UTC**: docs(patterns): refine observer pub-sub lifecycle documentation [2026-05-15]
 - **2026-05-15 22:20:22 UTC**: docs(complexity): update time and space asymptotic notations [2026-05-15]
 - **2026-05-15 15:15:02 UTC**: refactor(algorithms): optimize search boundary checks [2026-05-15]
+- **2026-05-15 21:51:59 UTC**: refactor(builder): improve fluent query argument parsing [2026-05-15]
