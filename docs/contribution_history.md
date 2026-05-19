@@ -2201,3 +2201,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2026-05-19 14:38:48 UTC**: docs(readme): improve quickstart documentation and badges [2026-05-19]
 - **2026-05-19 15:16:28 UTC**: docs(benchmarks): update daily runtime performance benchmarks [2026-05-19]
 - **2026-05-19 11:58:40 UTC**: docs(complexity): update time and space asymptotic notations [2026-05-19]
+- **2026-05-19 10:15:14 UTC**: test(sorting): add extra test cases for duplicate keys [2026-05-19]
