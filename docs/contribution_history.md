@@ -2194,3 +2194,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2026-05-18 19:25:28 UTC**: chore(activity): record automated algorithmic benchmark metrics [2026-05-18]
 - **2026-05-19 21:40:44 UTC**: test(trie): expand autocomplete prefix query assertions [2026-05-19]
 - **2026-05-19 15:55:35 UTC**: perf(data-structures): refine LRU cache node detachment speed [2026-05-19]
+- **2026-05-19 19:56:01 UTC**: perf(sorting): refine partition pivot selection in quicksort [2026-05-19]
