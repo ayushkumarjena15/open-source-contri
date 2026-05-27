@@ -2215,3 +2215,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2026-05-27 22:48:29 UTC**: chore(activity): record automated algorithmic benchmark metrics [2026-05-27]
 - **2026-05-27 10:26:54 UTC**: chore(activity): record automated algorithmic benchmark metrics [2026-05-27]
 - **2026-05-27 17:49:41 UTC**: docs(patterns): refine observer pub-sub lifecycle documentation [2026-05-27]
+- **2026-05-27 16:37:55 UTC**: refactor(builder): improve fluent query argument parsing [2026-05-27]
