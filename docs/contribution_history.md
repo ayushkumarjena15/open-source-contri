@@ -2209,3 +2209,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2026-05-25 14:14:33 UTC**: docs(benchmarks): update daily runtime performance benchmarks [2026-05-25]
 - **2026-05-25 19:24:55 UTC**: docs(benchmarks): update daily runtime performance benchmarks [2026-05-25]
 - **2026-05-27 11:25:59 UTC**: docs(benchmarks): update daily runtime performance benchmarks [2026-05-27]
+- **2026-05-27 20:03:44 UTC**: docs(patterns): refine observer pub-sub lifecycle documentation [2026-05-27]
