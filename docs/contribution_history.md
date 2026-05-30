@@ -2224,3 +2224,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2026-05-30 12:41:50 UTC**: chore(health): routine automated code quality inspection [2026-05-30]
 - **2026-05-30 10:29:55 UTC**: test(trie): expand autocomplete prefix query assertions [2026-05-30]
 - **2026-05-30 14:21:53 UTC**: test(sorting): add extra test cases for duplicate keys [2026-05-30]
+- **2026-05-30 18:12:35 UTC**: perf(sorting): refine partition pivot selection in quicksort [2026-05-30]
