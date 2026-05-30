@@ -2218,3 +2218,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2026-05-27 16:37:55 UTC**: refactor(builder): improve fluent query argument parsing [2026-05-27]
 - **2026-05-29 21:22:55 UTC**: refactor(utils): enhance string casing regex performance [2026-05-29]
 - **2026-05-30 13:24:53 UTC**: perf(data-structures): refine LRU cache node detachment speed [2026-05-30]
+- **2026-05-30 15:18:48 UTC**: perf(sorting): refine partition pivot selection in quicksort [2026-05-30]
