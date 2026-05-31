@@ -2230,3 +2230,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2026-05-31 17:56:33 UTC**: docs(complexity): update time and space asymptotic notations [2026-05-31]
 - **2026-05-31 12:09:22 UTC**: test(trie): expand autocomplete prefix query assertions [2026-05-31]
 - **2026-05-31 17:32:45 UTC**: docs(benchmarks): update daily runtime performance benchmarks [2026-05-31]
+- **2026-05-31 09:19:44 UTC**: perf(data-structures): refine LRU cache node detachment speed [2026-05-31]
