@@ -2234,3 +2234,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2026-05-31 10:31:51 UTC**: chore(ci): verify cross-platform matrix test compatibility [2026-05-31]
 - **2026-05-31 19:10:53 UTC**: perf(data-structures): refine LRU cache node detachment speed [2026-05-31]
 - **2026-06-01 09:27:38 UTC**: docs(patterns): refine observer pub-sub lifecycle documentation [2026-06-01]
+- **2026-06-01 14:19:00 UTC**: test(graph): add topological sort edge case validation [2026-06-01]
