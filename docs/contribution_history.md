@@ -2238,3 +2238,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2026-06-01 20:55:35 UTC**: refactor(algorithms): optimize search boundary checks [2026-06-01]
 - **2026-06-02 18:24:50 UTC**: docs(complexity): update time and space asymptotic notations [2026-06-02]
 - **2026-06-02 11:56:39 UTC**: test(graph): add topological sort edge case validation [2026-06-02]
+- **2026-06-02 13:16:30 UTC**: docs(complexity): update time and space asymptotic notations [2026-06-02]
