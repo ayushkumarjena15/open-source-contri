@@ -2244,3 +2244,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2026-06-03 14:53:30 UTC**: docs(benchmarks): update daily runtime performance benchmarks [2026-06-03]
 - **2026-06-03 15:23:41 UTC**: chore(ci): verify cross-platform matrix test compatibility [2026-06-03]
 - **2026-06-03 14:24:01 UTC**: chore(metrics): sync daily repository activity and benchmark statistics [2026-06-03]
+- **2026-06-03 11:02:46 UTC**: docs(readme): improve quickstart documentation and badges [2026-06-03]
