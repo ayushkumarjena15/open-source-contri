@@ -2255,3 +2255,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2026-06-04 12:55:59 UTC**: chore(metrics): sync daily repository activity and benchmark statistics [2026-06-04]
 - **2026-06-04 13:30:21 UTC**: docs(notes): update memory locality notes in complexity sheet [2026-06-04]
 - **2026-06-04 16:15:00 UTC**: chore(ci): verify cross-platform matrix test compatibility [2026-06-04]
+- **2026-06-04 16:02:16 UTC**: perf(data-structures): refine LRU cache node detachment speed [2026-06-04]
