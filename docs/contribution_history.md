@@ -2248,3 +2248,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2026-06-03 21:21:52 UTC**: chore(ci): verify cross-platform matrix test compatibility [2026-06-03]
 - **2026-06-03 21:09:03 UTC**: docs(patterns): refine observer pub-sub lifecycle documentation [2026-06-03]
 - **2026-06-04 09:50:00 UTC**: test(trie): expand autocomplete prefix query assertions [2026-06-04]
+- **2026-06-04 14:45:33 UTC**: docs(readme): improve quickstart documentation and badges [2026-06-04]
