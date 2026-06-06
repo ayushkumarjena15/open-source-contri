@@ -2261,3 +2261,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2026-06-06 09:53:32 UTC**: test(trie): expand autocomplete prefix query assertions [2026-06-06]
 - **2026-06-06 12:37:30 UTC**: docs(notes): update memory locality notes in complexity sheet [2026-06-06]
 - **2026-06-06 18:57:27 UTC**: test(trie): expand autocomplete prefix query assertions [2026-06-06]
+- **2026-06-06 21:28:34 UTC**: test(graph): add topological sort edge case validation [2026-06-06]
