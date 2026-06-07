@@ -2262,3 +2262,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2026-06-06 12:37:30 UTC**: docs(notes): update memory locality notes in complexity sheet [2026-06-06]
 - **2026-06-06 18:57:27 UTC**: test(trie): expand autocomplete prefix query assertions [2026-06-06]
 - **2026-06-06 21:28:34 UTC**: test(graph): add topological sort edge case validation [2026-06-06]
+- **2026-06-07 20:59:33 UTC**: docs(patterns): refine observer pub-sub lifecycle documentation [2026-06-07]
