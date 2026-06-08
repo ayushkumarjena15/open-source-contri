@@ -2265,3 +2265,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2026-06-07 20:59:33 UTC**: docs(patterns): refine observer pub-sub lifecycle documentation [2026-06-07]
 - **2026-06-08 22:16:39 UTC**: docs(insights): add daily CS engineering insight [2026-06-08]
 - **2026-06-08 11:32:26 UTC**: test(sorting): add extra test cases for duplicate keys [2026-06-08]
+- **2026-06-08 09:04:31 UTC**: docs(complexity): update time and space asymptotic notations [2026-06-08]
