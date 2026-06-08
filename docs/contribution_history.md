@@ -2269,3 +2269,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2026-06-08 15:15:19 UTC**: chore(activity): record automated algorithmic benchmark metrics [2026-06-08]
 - **2026-06-08 21:07:56 UTC**: refactor(utils): enhance string casing regex performance [2026-06-08]
 - **2026-06-08 09:08:45 UTC**: perf(data-structures): refine LRU cache node detachment speed [2026-06-08]
+- **2026-06-08 21:10:56 UTC**: docs(readme): improve quickstart documentation and badges [2026-06-08]
