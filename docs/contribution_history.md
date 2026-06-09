@@ -2276,3 +2276,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2026-06-09 21:31:18 UTC**: refactor(utils): enhance string casing regex performance [2026-06-09]
 - **2026-06-09 12:52:26 UTC**: chore(metrics): sync daily repository activity and benchmark statistics [2026-06-09]
 - **2026-06-09 17:49:14 UTC**: perf(data-structures): refine LRU cache node detachment speed [2026-06-09]
+- **2026-06-09 22:24:06 UTC**: perf(sorting): refine partition pivot selection in quicksort [2026-06-09]
