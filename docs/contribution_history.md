@@ -2278,3 +2278,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2026-06-09 17:49:14 UTC**: perf(data-structures): refine LRU cache node detachment speed [2026-06-09]
 - **2026-06-09 22:24:06 UTC**: perf(sorting): refine partition pivot selection in quicksort [2026-06-09]
 - **2026-06-09 09:38:38 UTC**: chore(activity): record automated algorithmic benchmark metrics [2026-06-09]
+- **2026-06-10 10:59:09 UTC**: docs(patterns): refine observer pub-sub lifecycle documentation [2026-06-10]
