@@ -2292,3 +2292,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2026-06-11 15:13:55 UTC**: test(sorting): add extra test cases for duplicate keys [2026-06-11]
 - **2026-06-11 16:21:49 UTC**: test(sorting): add extra test cases for duplicate keys [2026-06-11]
 - **2026-06-11 13:49:25 UTC**: perf(sorting): refine partition pivot selection in quicksort [2026-06-11]
+- **2026-06-12 09:07:41 UTC**: docs(patterns): refine observer pub-sub lifecycle documentation [2026-06-12]
