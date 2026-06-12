@@ -2295,3 +2295,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2026-06-12 09:07:41 UTC**: docs(patterns): refine observer pub-sub lifecycle documentation [2026-06-12]
 - **2026-06-12 13:22:33 UTC**: perf(data-structures): refine LRU cache node detachment speed [2026-06-12]
 - **2026-06-12 16:49:36 UTC**: docs(readme): improve quickstart documentation and badges [2026-06-12]
+- **2026-06-12 13:39:57 UTC**: test(graph): add topological sort edge case validation [2026-06-12]
