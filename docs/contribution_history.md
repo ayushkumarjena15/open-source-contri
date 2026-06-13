@@ -2304,3 +2304,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2026-06-12 10:14:40 UTC**: docs(readme): improve quickstart documentation and badges [2026-06-12]
 - **2026-06-13 17:16:09 UTC**: chore(health): routine automated code quality inspection [2026-06-13]
 - **2026-06-13 12:56:47 UTC**: refactor(algorithms): optimize search boundary checks [2026-06-13]
+- **2026-06-13 17:56:34 UTC**: docs(complexity): update time and space asymptotic notations [2026-06-13]
