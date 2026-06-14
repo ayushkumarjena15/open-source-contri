@@ -2307,3 +2307,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2026-06-13 17:56:34 UTC**: docs(complexity): update time and space asymptotic notations [2026-06-13]
 - **2026-06-13 18:19:52 UTC**: chore(ci): verify cross-platform matrix test compatibility [2026-06-13]
 - **2026-06-13 13:09:08 UTC**: refactor(algorithms): optimize search boundary checks [2026-06-13]
+- **2026-06-14 17:29:53 UTC**: refactor(builder): improve fluent query argument parsing [2026-06-14]
