@@ -2309,3 +2309,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2026-06-13 13:09:08 UTC**: refactor(algorithms): optimize search boundary checks [2026-06-13]
 - **2026-06-14 17:29:53 UTC**: refactor(builder): improve fluent query argument parsing [2026-06-14]
 - **2026-06-16 20:07:16 UTC**: test(trie): expand autocomplete prefix query assertions [2026-06-16]
+- **2026-06-16 18:08:46 UTC**: docs(notes): update memory locality notes in complexity sheet [2026-06-16]
