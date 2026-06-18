@@ -2319,3 +2319,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2026-06-18 20:06:22 UTC**: docs(patterns): refine observer pub-sub lifecycle documentation [2026-06-18]
 - **2026-06-18 15:14:32 UTC**: test(sorting): add extra test cases for duplicate keys [2026-06-18]
 - **2026-06-18 14:58:24 UTC**: refactor(utils): enhance string casing regex performance [2026-06-18]
+- **2026-06-18 22:55:22 UTC**: perf(data-structures): refine LRU cache node detachment speed [2026-06-18]
