@@ -2317,3 +2317,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2026-06-16 10:22:45 UTC**: docs(complexity): update time and space asymptotic notations [2026-06-16]
 - **2026-06-17 20:38:09 UTC**: perf(sorting): refine partition pivot selection in quicksort [2026-06-17]
 - **2026-06-18 20:06:22 UTC**: docs(patterns): refine observer pub-sub lifecycle documentation [2026-06-18]
+- **2026-06-18 15:14:32 UTC**: test(sorting): add extra test cases for duplicate keys [2026-06-18]
