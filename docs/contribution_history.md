@@ -2333,3 +2333,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2026-06-20 15:32:47 UTC**: test(sorting): add extra test cases for duplicate keys [2026-06-20]
 - **2026-06-20 22:27:38 UTC**: chore(metrics): sync daily repository activity and benchmark statistics [2026-06-20]
 - **2026-06-20 21:11:14 UTC**: perf(sorting): refine partition pivot selection in quicksort [2026-06-20]
+- **2026-06-20 15:18:54 UTC**: docs(notes): update memory locality notes in complexity sheet [2026-06-20]
