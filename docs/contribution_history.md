@@ -2341,3 +2341,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2026-06-22 21:26:00 UTC**: docs(notes): update memory locality notes in complexity sheet [2026-06-22]
 - **2026-06-22 14:38:26 UTC**: docs(insights): add daily CS engineering insight [2026-06-22]
 - **2026-06-22 11:46:11 UTC**: docs(complexity): update time and space asymptotic notations [2026-06-22]
+- **2026-06-22 09:58:19 UTC**: docs(patterns): refine observer pub-sub lifecycle documentation [2026-06-22]
