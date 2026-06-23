@@ -2348,3 +2348,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2026-06-23 16:36:58 UTC**: docs(insights): add daily CS engineering insight [2026-06-23]
 - **2026-06-23 16:30:51 UTC**: test(trie): expand autocomplete prefix query assertions [2026-06-23]
 - **2026-06-23 21:15:11 UTC**: perf(data-structures): refine LRU cache node detachment speed [2026-06-23]
+- **2026-06-23 17:49:57 UTC**: docs(readme): improve quickstart documentation and badges [2026-06-23]
