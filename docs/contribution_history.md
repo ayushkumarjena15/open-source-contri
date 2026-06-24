@@ -2354,3 +2354,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2026-06-23 16:10:50 UTC**: docs(notes): update memory locality notes in complexity sheet [2026-06-23]
 - **2026-06-24 20:57:20 UTC**: docs(complexity): update time and space asymptotic notations [2026-06-24]
 - **2026-06-24 09:19:10 UTC**: perf(sorting): refine partition pivot selection in quicksort [2026-06-24]
+- **2026-06-24 09:52:41 UTC**: perf(data-structures): refine LRU cache node detachment speed [2026-06-24]
