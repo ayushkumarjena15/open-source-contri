@@ -2365,3 +2365,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2026-06-25 17:47:36 UTC**: refactor(algorithms): optimize search boundary checks [2026-06-25]
 - **2026-06-25 12:30:23 UTC**: chore(ci): verify cross-platform matrix test compatibility [2026-06-25]
 - **2026-06-25 11:12:24 UTC**: refactor(utils): enhance string casing regex performance [2026-06-25]
+- **2026-06-25 15:22:01 UTC**: docs(readme): improve quickstart documentation and badges [2026-06-25]
