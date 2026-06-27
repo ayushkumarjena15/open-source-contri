@@ -2378,3 +2378,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2026-06-27 10:10:14 UTC**: docs(complexity): update time and space asymptotic notations [2026-06-27]
 - **2026-06-27 18:02:48 UTC**: test(sorting): add extra test cases for duplicate keys [2026-06-27]
 - **2026-06-27 20:54:39 UTC**: docs(patterns): refine observer pub-sub lifecycle documentation [2026-06-27]
+- **2026-06-27 14:25:04 UTC**: test(graph): add topological sort edge case validation [2026-06-27]
