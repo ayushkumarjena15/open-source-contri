@@ -2375,3 +2375,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2026-06-26 09:31:29 UTC**: test(graph): add topological sort edge case validation [2026-06-26]
 - **2026-06-26 22:28:48 UTC**: docs(patterns): refine observer pub-sub lifecycle documentation [2026-06-26]
 - **2026-06-26 14:49:08 UTC**: docs(insights): add daily CS engineering insight [2026-06-26]
+- **2026-06-27 10:10:14 UTC**: docs(complexity): update time and space asymptotic notations [2026-06-27]
