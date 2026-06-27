@@ -2381,3 +2381,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2026-06-27 14:25:04 UTC**: test(graph): add topological sort edge case validation [2026-06-27]
 - **2026-06-27 15:11:21 UTC**: docs(benchmarks): update daily runtime performance benchmarks [2026-06-27]
 - **2026-06-27 22:53:59 UTC**: docs(complexity): update time and space asymptotic notations [2026-06-27]
+- **2026-06-27 10:01:04 UTC**: docs(notes): update memory locality notes in complexity sheet [2026-06-27]
