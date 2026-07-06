@@ -2398,3 +2398,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2026-07-02 22:04:34 UTC**: perf(sorting): refine partition pivot selection in quicksort [2026-07-02]
 - **2026-07-03 15:15:38 UTC**: perf(sorting): refine partition pivot selection in quicksort [2026-07-03]
 - **2026-07-03 15:36:44 UTC**: docs(patterns): refine observer pub-sub lifecycle documentation [2026-07-03]
+- **2026-07-06 18:43:36 UTC**: docs(readme): improve quickstart documentation and badges [2026-07-06]
