@@ -2408,3 +2408,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2026-07-09 14:41:27 UTC**: perf(sorting): refine partition pivot selection in quicksort [2026-07-09]
 - **2026-07-09 17:38:55 UTC**: test(sorting): add extra test cases for duplicate keys [2026-07-09]
 - **2026-07-09 21:18:21 UTC**: refactor(utils): enhance string casing regex performance [2026-07-09]
+- **2026-07-09 09:09:33 UTC**: perf(data-structures): refine LRU cache node detachment speed [2026-07-09]
