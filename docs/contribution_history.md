@@ -2407,3 +2407,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2026-07-09 17:51:48 UTC**: docs(readme): improve quickstart documentation and badges [2026-07-09]
 - **2026-07-09 14:41:27 UTC**: perf(sorting): refine partition pivot selection in quicksort [2026-07-09]
 - **2026-07-09 17:38:55 UTC**: test(sorting): add extra test cases for duplicate keys [2026-07-09]
+- **2026-07-09 21:18:21 UTC**: refactor(utils): enhance string casing regex performance [2026-07-09]
