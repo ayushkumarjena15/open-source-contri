@@ -2411,3 +2411,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2026-07-09 09:09:33 UTC**: perf(data-structures): refine LRU cache node detachment speed [2026-07-09]
 - **2026-07-11 16:14:26 UTC**: perf(data-structures): refine LRU cache node detachment speed [2026-07-11]
 - **2026-07-11 22:19:09 UTC**: docs(notes): update memory locality notes in complexity sheet [2026-07-11]
+- **2026-07-13 17:19:25 UTC**: docs(notes): update memory locality notes in complexity sheet [2026-07-13]
