@@ -2431,3 +2431,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2026-07-16 18:33:58 UTC**: perf(sorting): refine partition pivot selection in quicksort [2026-07-16]
 - **2026-07-16 15:25:12 UTC**: chore(ci): verify cross-platform matrix test compatibility [2026-07-16]
 - **2026-07-16 18:40:17 UTC**: test(graph): add topological sort edge case validation [2026-07-16]
+- **2026-07-18 16:56:11 UTC**: perf(data-structures): refine LRU cache node detachment speed [2026-07-18]
