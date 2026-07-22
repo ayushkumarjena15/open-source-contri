@@ -2454,3 +2454,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2026-07-22 18:51:09 UTC**: docs(readme): improve quickstart documentation and badges [2026-07-22]
 - **2026-07-22 16:52:40 UTC**: test(sorting): add extra test cases for duplicate keys [2026-07-22]
 - **2026-07-22 12:10:14 UTC**: test(sorting): add extra test cases for duplicate keys [2026-07-22]
+- **2026-07-22 18:48:37 UTC**: docs(notes): update memory locality notes in complexity sheet [2026-07-22]
