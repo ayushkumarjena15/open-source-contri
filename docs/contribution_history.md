@@ -2462,3 +2462,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2026-07-24 20:54:33 UTC**: test(trie): expand autocomplete prefix query assertions [2026-07-24]
 - **2026-07-24 13:06:14 UTC**: docs(notes): update memory locality notes in complexity sheet [2026-07-24]
 - **2026-07-24 14:22:16 UTC**: docs(insights): add daily CS engineering insight [2026-07-24]
+- **2026-07-24 13:00:31 UTC**: perf(sorting): refine partition pivot selection in quicksort [2026-07-24]
