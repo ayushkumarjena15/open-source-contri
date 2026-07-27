@@ -2473,3 +2473,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2026-07-26 17:57:32 UTC**: test(trie): expand autocomplete prefix query assertions [2026-07-26]
 - **2026-07-27 19:53:59 UTC**: test(trie): expand autocomplete prefix query assertions [2026-07-27]
 - **2026-07-27 18:30:43 UTC**: perf(data-structures): refine LRU cache node detachment speed [2026-07-27]
+- **2026-07-27 22:33:41 UTC**: docs(notes): update memory locality notes in complexity sheet [2026-07-27]
