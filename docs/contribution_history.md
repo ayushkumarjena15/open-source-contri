@@ -2504,3 +2504,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2026-08-10 12:53:12 UTC**: refactor(algorithms): optimize search boundary checks [2026-08-10]
 - **2026-08-11 20:16:32 UTC**: chore(health): routine automated code quality inspection [2026-08-11]
 - **2026-08-11 09:33:06 UTC**: test(graph): add topological sort edge case validation [2026-08-11]
+- **2026-08-11 12:47:10 UTC**: docs(notes): update memory locality notes in complexity sheet [2026-08-11]
