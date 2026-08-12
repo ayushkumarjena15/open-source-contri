@@ -2508,3 +2508,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2026-08-11 10:27:11 UTC**: docs(insights): add daily CS engineering insight [2026-08-11]
 - **2026-08-11 10:25:41 UTC**: chore(ci): verify cross-platform matrix test compatibility [2026-08-11]
 - **2026-08-12 20:10:50 UTC**: chore(ci): verify cross-platform matrix test compatibility [2026-08-12]
+- **2026-08-12 21:23:17 UTC**: docs(complexity): update time and space asymptotic notations [2026-08-12]
