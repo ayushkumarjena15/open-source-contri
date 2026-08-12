@@ -2509,3 +2509,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2026-08-11 10:25:41 UTC**: chore(ci): verify cross-platform matrix test compatibility [2026-08-11]
 - **2026-08-12 20:10:50 UTC**: chore(ci): verify cross-platform matrix test compatibility [2026-08-12]
 - **2026-08-12 21:23:17 UTC**: docs(complexity): update time and space asymptotic notations [2026-08-12]
+- **2026-08-12 15:05:25 UTC**: docs(readme): improve quickstart documentation and badges [2026-08-12]
