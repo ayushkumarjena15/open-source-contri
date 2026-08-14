@@ -2518,3 +2518,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2026-08-13 22:04:57 UTC**: test(sorting): add extra test cases for duplicate keys [2026-08-13]
 - **2026-08-13 12:17:34 UTC**: docs(patterns): refine observer pub-sub lifecycle documentation [2026-08-13]
 - **2026-08-14 20:42:14 UTC**: perf(data-structures): refine LRU cache node detachment speed [2026-08-14]
+- **2026-08-14 10:12:04 UTC**: docs(notes): update memory locality notes in complexity sheet [2026-08-14]
