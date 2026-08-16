@@ -2524,3 +2524,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2026-08-16 18:37:02 UTC**: test(trie): expand autocomplete prefix query assertions [2026-08-16]
 - **2026-08-16 16:30:19 UTC**: test(graph): add topological sort edge case validation [2026-08-16]
 - **2026-08-16 13:55:32 UTC**: refactor(builder): improve fluent query argument parsing [2026-08-16]
+- **2026-08-16 19:37:16 UTC**: docs(readme): improve quickstart documentation and badges [2026-08-16]
