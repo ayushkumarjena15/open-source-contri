@@ -2562,3 +2562,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2026-08-26 15:49:21 UTC**: chore(health): routine automated code quality inspection [2026-08-26]
 - **2026-08-26 13:38:22 UTC**: test(sorting): add extra test cases for duplicate keys [2026-08-26]
 - **2026-08-26 13:49:36 UTC**: refactor(utils): enhance string casing regex performance [2026-08-26]
+- **2026-08-27 13:50:19 UTC**: docs(notes): update memory locality notes in complexity sheet [2026-08-27]
