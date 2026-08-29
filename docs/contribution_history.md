@@ -2567,3 +2567,4 @@ Record of periodic algorithmic enhancements, benchmarks, and maintenance.
 - **2026-08-27 16:14:13 UTC**: docs(notes): update memory locality notes in complexity sheet [2026-08-27]
 - **2026-08-27 12:38:30 UTC**: docs(readme): improve quickstart documentation and badges [2026-08-27]
 - **2026-08-29 11:46:31 UTC**: docs(patterns): refine observer pub-sub lifecycle documentation [2026-08-29]
+- **2026-08-29 09:12:26 UTC**: perf(data-structures): refine LRU cache node detachment speed [2026-08-29]
