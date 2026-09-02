@@ -1,0 +1,43 @@
+name: Daily Automated Contribution & Benchmarks
+
+on:
+  schedule:
+    # Runs at 04:30 and 16:30 UTC every day
+    - cron: '30 4,16 * * *'
+  workflow_dispatch: # Allows manual trigger from GitHub Actions UI
+
+permissions:
+  contents: write
+
+jobs:
+  contribute:
+    name: Run Daily Benchmarks & Record Contribution
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Run Test Suite
+        run: npm test
+
+      - name: Configure Git Identity
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Run Daily Contributor Engine
+        run: node scripts/daily_contributor.js
+
+      - name: Push Changes
+        run: |
+          git pull --rebase origin main || true
+          git push origin main || echo "No changes to push"

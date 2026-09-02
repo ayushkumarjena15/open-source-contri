@@ -1,0 +1,32 @@
+[
+  {
+    "timestamp": "2026-09-02T11:36:35.785Z",
+    "sampleSize": 10000,
+    "sortingTimeMs": {
+      "quickSort": 12.746,
+      "mergeSort": 6.879,
+      "heapSort": 2.419,
+      "radixSort": 4.333
+    },
+    "searchTime1000OpsMs": {
+      "binarySearch": 0.488,
+      "exponentialSearch": 0.3639,
+      "jumpSearch": 0.7834
+    }
+  },
+  {
+    "timestamp": "2026-09-02T11:37:39.896Z",
+    "sampleSize": 10000,
+    "sortingTimeMs": {
+      "quickSort": 8.592,
+      "mergeSort": 4.465,
+      "heapSort": 2.356,
+      "radixSort": 4.445
+    },
+    "searchTime1000OpsMs": {
+      "binarySearch": 0.5996,
+      "exponentialSearch": 0.3817,
+      "jumpSearch": 0.8464
+    }
+  }
+]
